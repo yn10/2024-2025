@@ -17,8 +17,6 @@ Dans Honkai: Star Rail, les **Aiôns** sont des êtres divins qui président la 
 
 
 
-
-
 * [Home](/md/index "↓markdown↓ CMS Home")
 * [README](/README "↓markdown↓ CMS README File")
 * [License](/md/markdown-cms-license "↓markdown↓ CMS License")
@@ -27,7 +25,7 @@ Dans Honkai: Star Rail, les **Aiôns** sont des êtres divins qui président la 
 * [About](http://tekeye.uk/md_cms/about-markdown-cms "About ↓markdown↓ CMS")
 
 
-<p align="center">Ceci est un texte centré</p>
+<p align="center">[Ton lien ici](https://tonlien.com)</p>
 
 ## Titre 2
 ### Titre 3
