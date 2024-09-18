@@ -1,0 +1,6 @@
+* [Home](/ "Our Home page")
+* [Food](/food "Our delicious food choices")
+* [Drinks](/drinks "Our choice of drinks")
+* [Specials](/specials "The specials menu")
+* [Location](/address "Where to find us")
+* [About](/about "More cafe information")
