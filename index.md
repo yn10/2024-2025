@@ -1,23 +1,8 @@
 <div align="center">
 
-<table style="border-collapse: collapse; border: none;">
-
-  <tr>
-    <td align="right" style="border: none;"><h1 style="color:#C09C7B;">La mythologie de</h1></td>
-    <td align="left" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/fr/b/b1/Honkai-Star-Rail.png" width="200" /></td>
-  </tr>
-
-</table>
-
-</div>
-
---
-
-<div align="center">
-
   <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
 
-    <div style="text-align: right; margin-right: 10px;">text</div>
+    <div style="text-align: right; margin-right: 10px;"><h1 style="color:#C09C7B;">La mythologie de</h1></div>
     <div style="text-align: left;">
       <img src="https://upload.wikimedia.org/wikipedia/fr/b/b1/Honkai-Star-Rail.png" width="200" />
     </div>
@@ -32,23 +17,6 @@
 <h1 align="center">La mythologie de Honkai: Star Rail</h1>
 
 --
-
-<div style="display: flex; justify-content: center;">
-
-  <table style="border-collapse: collapse; border: none;">
-
-    <tr>
-      <td style="text-align: right; border: none;">text</td>
-      <td style="text-align: left; border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/fr/b/b1/Honkai-Star-Rail.png" width="200" />
-      </td>
-    </tr>
-
-  </table>
-
-</div>
-
-
 
 <div align="center">
 
