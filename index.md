@@ -1,3 +1,39 @@
+<script type="module" src="https://unpkg.com/dark-mode-toggle"></script>
+
+<head>
+  <link rel="stylesheet" href="common.css" />
+  <link
+    rel="stylesheet"
+    href="light.css"
+    media="(prefers-color-scheme: light)"
+  />
+  <link rel="stylesheet" href="dark.css" media="(prefers-color-scheme: dark)" />
+  <script
+    type="module"
+    src="https://googlechromelabs.github.io/dark-mode-toggle/src/dark-mode-toggle.mjs"
+  ></script>
+</head>
+<!-- ... -->
+<main>
+  <h1>Hi there</h1>
+  <img
+    src="https://googlechromelabs.github.io/dark-mode-toggle/demo/cat.jpg"
+    alt="Sitting cat in front of a tree"
+    width="320"
+    height="195"
+  />
+  <p>Check out the dark mode toggle in the upper right corner!</p>
+</main>
+<aside>
+  <dark-mode-toggle
+    id="dark-mode-toggle-1"
+    legend="Theme Switcher"
+    appearance="switch"
+    dark="Dark"
+    light="Light"
+    remember="Remember this"
+  ></dark-mode-toggle>
+</aside>
 
 <h1 align="center">La mythologie de Honkai: Star Rail</h1>
 
