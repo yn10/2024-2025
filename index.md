@@ -19,7 +19,7 @@
 
 Honkai: Star Rail est un jeu de rôle tactique développé par miHoYo (connu en dehors de Chine sous le nom de HoYoverse). Il s'agit du quatrième volet de la série Honkai, utilisant de nouveaux personnages ainsi que des versions alternatives des mêmes personnages de Honkai Impact 3rd. Il est sorti officiellement le 26 avril 2023 sur Microsoft Windows, Android et iOS.
 
-Dans Honkai: Star Rail, les [**Aiôns**](/aions.md) sont des êtres divins qui président la galaxie. Chaque Aiôn est associé à une [Voie](/voies.md), par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie. Les mortels qui arpentent les Voies surnommés des [Éclaireurs](/factions_eclaireurs_emanateur.md), et exécutent la volonté de la Voie.
+Dans Honkai: Star Rail, les [**Aiôns**](/aions.md) sont des êtres divins qui président la galaxie. Chaque Aiôn est associé à une [**Voie**](/voies.md), par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie. Les mortels qui arpentent les Voies surnommés des [**Éclaireurs**](/factions_eclaireurs_emanateur.md), et exécutent la volonté de la Voie.
 
 <h2 align="center">Sommaire</h2>
 
@@ -32,24 +32,6 @@ Dans Honkai: Star Rail, les [**Aiôns**](/aions.md) sont des êtres divins qui p
 [Les Factions, Éclaireurs et Émanateurs](/factions_eclaireurs_emanateurs.md)
 
 </div>
-
-## Titre 2
-### Titre 3
-#### Titre 4
-##### Titre 5
-###### Titre 6
-
-<h1 align="center">Titre Centré</h1>
-
-
-So an inline link to [Yahoo](http://www.yahoo.com) looks like this:
-<h2 align="center">Titre Centré</h2>
-
-
-This is [an example][id] reference-style link.
-
-
-[id]: http://example.com/  "Optional Title Here"
 
 # Table of contents
 1. [Introduction](#introduction)
