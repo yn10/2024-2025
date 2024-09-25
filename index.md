@@ -1,40 +1,3 @@
-<script type="module" src="https://unpkg.com/dark-mode-toggle"></script>
-
-<head>
-  <link rel="stylesheet" href="common.css" />
-  <link
-    rel="stylesheet"
-    href="light.css"
-    media="(prefers-color-scheme: light)"
-  />
-  <link rel="stylesheet" href="dark.css" media="(prefers-color-scheme: dark)" />
-  <script
-    type="module"
-    src="https://googlechromelabs.github.io/dark-mode-toggle/src/dark-mode-toggle.mjs"
-  ></script>
-</head>
-<!-- ... -->
-<main>
-  <h1>Hi there</h1>
-  <img
-    src="https://googlechromelabs.github.io/dark-mode-toggle/demo/cat.jpg"
-    alt="Sitting cat in front of a tree"
-    width="320"
-    height="195"
-  />
-  <p>Check out the dark mode toggle in the upper right corner!</p>
-</main>
-<aside>
-  <dark-mode-toggle
-    id="dark-mode-toggle-1"
-    legend="Theme Switcher"
-    appearance="switch"
-    dark="Dark"
-    light="Light"
-    remember="Remember this"
-  ></dark-mode-toggle>
-</aside>
-
 <h1 align="center">La mythologie de Honkai: Star Rail</h1>
 
 # Introduction
@@ -45,20 +8,11 @@ Honkai: Star Rail est un jeu de rôle tactique développé par miHoYo (connu en 
 
 Dans Honkai: Star Rail, les **Aiôns** sont des êtres divins qui président la galaxie. Chaque Aiôn est associé à une **Voie**, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
 
-# Table des matières
+# Sommaire
 
-
-
-
-
-
-
-
-
-
-* [Home](/md/index "↓markdown↓ CMS Home")
-* [README](/README "↓markdown↓ CMS README File")
-* [License](/md/markdown-cms-license "↓markdown↓ CMS License")
+* [Les Aiôns](/md/index "↓markdown↓ CMS Home")
+* [Les Voies](/README "↓markdown↓ CMS README File")
+* [Les Factions, Éclaireur et Émanateurs](/md/markdown-cms-license "↓markdown↓ CMS License")
 * [Download](http://tekeye.uk/downloads/markdown-cms.zip "↓markdown↓ CMS Download Zip")
 * [GitHub](https://github.com/GR8DAN/markdown-CMS "↓markdown↓ CMS on GitHub")
 * [About](http://tekeye.uk/md_cms/about-markdown-cms "About ↓markdown↓ CMS")
