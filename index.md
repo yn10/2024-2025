@@ -10,7 +10,7 @@ Dans Honkai: Star Rail, les **Aiôns** sont des êtres divins qui président la 
 
 # Sommaire
 
-* [Les Aiôns](/md/index "↓markdown↓ CMS Home")
+* [Les Aiôns](/aions.md)
 * [Les Voies](/README "↓markdown↓ CMS README File")
 * [Les Factions, Éclaireur et Émanateurs](/md/markdown-cms-license "↓markdown↓ CMS License")
 * [Download](http://tekeye.uk/downloads/markdown-cms.zip "↓markdown↓ CMS Download Zip")
