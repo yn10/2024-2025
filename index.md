@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h2 style="color:#C09C7B;"><strong>Introduction</strong></h2>
+  <h2 style="color:#C09C7B;">Introduction</h2>
 
 </div>
 
