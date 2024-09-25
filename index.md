@@ -28,11 +28,11 @@ Dans Honkai: Star Rail, les <a href="/aions.md" style="color: #C09C7B">Aiôns</a
   <div>
     <a href="/aions.md" style="color: #C09C7B;">Aiôns</a>
   </div>
----
+
   <div>
     <a href="/voies.md" style="color: #C09C7B;">Voies</a>
   </div>
----
+
   <div>
     <a href="/fee.md" style="color: #C09C7B;">Factions, Éclaireurs et Émanateurs</a>
   </div>
