@@ -30,6 +30,7 @@ Dans Honkai: Star Rail, les [**Aiôns**](/aions.md) sont des êtres divins qui p
 [Les Voies](/voies.md)
 
 [Les Factions, Éclaireurs et Émanateurs](/factions_eclaireurs_emanateurs.md)
+
 </div>
 
 ## Titre 2
