@@ -33,7 +33,7 @@ Dans Honkai: Star Rail, les **Aiôns** sont des êtres divins qui président la 
 
 [Les Voies](/voies.md)
 
-[Les Factions, Éclaireurs et Émanateurs](/factions_eclaireurs_emanateurs)
+[Les Factions, Éclaireurs et Émanateurs](/factions_eclaireurs_emanateurs.md)
 </div>
 
 ## Titre 2
