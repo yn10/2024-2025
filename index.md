@@ -1,3 +1,18 @@
+<div align="center">
+
+<table style="border-collapse: collapse; border: none;">
+
+  <tr>
+    <td align="right" style="border: none;">text</td>
+    <td align="left" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/fr/b/b1/Honkai-Star-Rail.png" width="200" /></td>
+  </tr>
+
+</table>
+
+</div>
+
+
+
 <h1 align="center">La mythologie de Honkai: Star Rail</h1>
 
 <div align="center">
