@@ -26,6 +26,26 @@
 
 <div align="center">
 
+  <div style="text-align: center;">
+
+    <table style="border-collapse: collapse; border: none; margin: auto;">
+
+      <tr>
+        <td align="right" style="border: none;">text</td>
+        <td align="left" style="border: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/fr/b/b1/Honkai-Star-Rail.png" width="200" />
+        </td>
+      </tr>
+
+    </table>
+
+  </div>
+
+</div>
+
+
+<div align="center">
+
   <h2 style="color:#C09C7B;">Introduction</h2>
 
 </div>
