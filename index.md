@@ -3,7 +3,7 @@
 <table style="border-collapse: collapse; border: none;">
 
   <tr>
-    <td align="right" style="border: none;">text</td>
+    <td align="right" style="border: none;"><h1 style="color:#C09C7B;">La mythologie de</h1></td>
     <td align="left" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/fr/b/b1/Honkai-Star-Rail.png" width="200" /></td>
   </tr>
 
