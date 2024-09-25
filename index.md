@@ -24,8 +24,8 @@ Dans Honkai: Star Rail, les <a href="/aions.md" style="color: #C09C7B">Aiôns</a
 <div align="center">
 
 <h2 style="color:#C09C7B;">Sommaire</h2>
-    
-<a href="/aions.md" style="color: #C09C7B">Aiôns</a>
+
+<a href="/aions.md" style="color: #C09C7B">Aiôns</a>\
 
 <a href="/voies.md" style="color: #C09C7B">Voies</a>
 
