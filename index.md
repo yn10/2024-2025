@@ -11,13 +11,6 @@
 
 </div>
 
-
---
-
-<h1 align="center">La mythologie de Honkai: Star Rail</h1>
-
---
-
 <div align="center">
 
   <h2 style="color:#C09C7B;">Introduction</h2>
@@ -26,7 +19,7 @@
 
 Honkai: Star Rail est un jeu de rôle tactique développé par miHoYo (connu en dehors de Chine sous le nom de HoYoverse). Il s'agit du quatrième volet de la série Honkai, utilisant de nouveaux personnages ainsi que des versions alternatives des mêmes personnages de Honkai Impact 3rd. Il est sorti officiellement le 26 avril 2023 sur Microsoft Windows, Android et iOS.
 
-Dans Honkai: Star Rail, les **Aiôns** sont des êtres divins qui président la galaxie. Chaque Aiôn est associé à une **Voie**, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
+Dans Honkai: Star Rail, les [**Aiôns**](/aions.md) sont des êtres divins qui président la galaxie. Chaque Aiôn est associé à une [Voie](/voies.md), par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie. Les mortels qui arpentent les Voies surnommés des [Éclaireurs](/factions_eclaireurs_emanateur.md), et exécutent la volonté de la Voie.
 
 <h2 align="center">Sommaire</h2>
 
