@@ -24,24 +24,21 @@
 
 <h1 align="center">La mythologie de Honkai: Star Rail</h1>
 
-<div align="center">
+<div style="display: flex; justify-content: center;">
 
-  <div style="text-align: center;">
+  <table style="border-collapse: collapse; border: none;">
 
-    <table style="border-collapse: collapse; border: none; margin: auto;">
+    <tr>
+      <td style="text-align: right; border: none;">text</td>
+      <td style="text-align: left; border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/fr/b/b1/Honkai-Star-Rail.png" width="200" />
+      </td>
+    </tr>
 
-      <tr>
-        <td align="right" style="border: none;">text</td>
-        <td align="left" style="border: none;">
-          <img src="https://upload.wikimedia.org/wikipedia/fr/b/b1/Honkai-Star-Rail.png" width="200" />
-        </td>
-      </tr>
-
-    </table>
-
-  </div>
+  </table>
 
 </div>
+
 
 
 <div align="center">
