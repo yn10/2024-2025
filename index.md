@@ -1,6 +1,10 @@
 <h1 align="center">La mythologie de Honkai: Star Rail</h1>
 
-# Introduction
+<div align="center">
+
+  <h2 style="color:#C09C7B;">Introduction</h2>
+
+</div>
 
 <span style="color: #C09C7B;">Your text here</span>
 
@@ -8,17 +12,16 @@ Honkai: Star Rail est un jeu de rôle tactique développé par miHoYo (connu en 
 
 Dans Honkai: Star Rail, les **Aiôns** sont des êtres divins qui président la galaxie. Chaque Aiôn est associé à une **Voie**, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
 
-# Sommaire
+<h2 align="center">Sommaire</h2>
 
-* [Les Aiôns](/aions.md)
-* [Les Voies](/README "↓markdown↓ CMS README File")
-* [Les Factions, Éclaireur et Émanateurs](/md/markdown-cms-license "↓markdown↓ CMS License")
-* [Download](http://tekeye.uk/downloads/markdown-cms.zip "↓markdown↓ CMS Download Zip")
-* [GitHub](https://github.com/GR8DAN/markdown-CMS "↓markdown↓ CMS on GitHub")
-* [About](http://tekeye.uk/md_cms/about-markdown-cms "About ↓markdown↓ CMS")
+<div align="center">
+    
+[Les Aiôns](/aions.md)
 
+[Les Voies](/voies.md)
 
-<p align="center">[Ton lien ici](https://tonlien.com)</p>
+[Les Factions, Éclaireurs et Émanateurs](/factions_eclaireurs_emanateurs)
+</div>
 
 ## Titre 2
 ### Titre 3
