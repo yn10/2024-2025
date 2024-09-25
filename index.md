@@ -11,18 +11,27 @@
 
 </div>
 
+--
+
 <div align="center">
 
-  <div style="display: flex; justify-content: space-between; width: 100%;">
+  <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
 
-    <div style="text-align: right; width: 50%;">text</div>
-    <div style="text-align: left; width: 50%;"><img src="https://upload.wikimedia.org/wikipedia/fr/b/b1/Honkai-Star-Rail.png" width="200" /></div>
+    <div style="text-align: right; margin-right: 10px;">text</div>
+    <div style="text-align: left;">
+      <img src="https://upload.wikimedia.org/wikipedia/fr/b/b1/Honkai-Star-Rail.png" width="200" />
+    </div>
 
   </div>
 
 </div>
 
+
+--
+
 <h1 align="center">La mythologie de Honkai: Star Rail</h1>
+
+--
 
 <div style="display: flex; justify-content: center;">
 
