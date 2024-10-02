@@ -14,7 +14,7 @@ Dans [_Honkai: Star Rail_](index.md), les Aiôns sont des êtres mystérieux de 
 
 ## Description
 
-Les gens en savent très peu sur la vie mystérieuse parmi les vastes mers stellaires. Les connaissances limitées des formes de vie intelligentes leur permettent seulement de discerner, au travers de croyances, les Aiôns qui arpentent des voies imperceptibles pour les mortels et qui déploient des pouvoirs incompréhensibles. Avec le temps, les Aiôns devinrent l'incarnation de concepts philosophiques condensés, au travers des légendes répandues par le bouche-à-oreille.
+>Les gens en savent très peu sur la vie mystérieuse parmi les vastes mers stellaires. Les connaissances limitées des formes de vie intelligentes leur permettent seulement de discerner, au travers de croyances, les Aiôns qui arpentent des voies imperceptibles pour les mortels et qui déploient des pouvoirs incompréhensibles. Avec le temps, les Aiôns devinrent l'incarnation de concepts philosophiques condensés, au travers des légendes répandues par le bouche-à-oreille.
 >
 >Quiconque se trouve sur la Voie d'un Aiôn finira par se sentir submergé par une sensation lointaine, comme si la glace l'avait emprisonné dans le cosmos à des années-lumière. Nombreux sont ceux qui croient que c'est le seul lien possible entre Aiôns et mortels
 Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la galaxie. Chaque Aiôn est associé à une Voie, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
