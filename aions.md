@@ -11,7 +11,7 @@
 
 </div>
 
-<h2 style="color:#C09C7B;">Aiôns</h2></div>
+<h2 style="color:#C09C7B;">Aiôns</h2>
 
 Les Aiôns sont des êtres divins dans Honkai: Star Rail qui président la galaxie. Chaque Aiôn est associé à une Voie, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
 
