@@ -1,20 +1,4 @@
-<link rel="stylesheet" href="style.css">
-
-<div style="display: flex; align-items: center;">
-    <img src="images/hsr_logo.png" alt="Description" style="margin-right: 10px; width: 200px; height: auto;"/>
-    <div>
-        <p style="margin: 0; font-size: 1.5em; font-weight: bold;">La mythologie de Honkai: Star Rail</p>
-        <p style="margin: 0;">
-            <a href="index.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ACCUEIL</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="aions.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">AIÔNS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="voies.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">VOIES</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="factions.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">FACTIONS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="eclaireurs.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ÉCLAIREURS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="emanateurs.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ÉMANATEURS</a>&nbsp;→
-        </p>
-    </div>
-</div>
-
+<!--#include virtual="header.html" -->
 <h2 style="color:#C09C7B;">Aiôns</h2>
 
 > Les gens en savent très peu sur la vie mystérieuse parmi les vastes mers stellaires. Les connaissances limitées des formes de vie intelligentes leur permettent seulement de discerner, au travers de croyances, les Aiôns qui arpentent des voies imperceptibles pour les mortels et qui déploient des pouvoirs incompréhensibles. Avec le temps, les Aiôns devinrent l'incarnation de concepts philosophiques condensés, au travers des légendes répandues par le bouche-à-oreille.
