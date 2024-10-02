@@ -26,7 +26,6 @@ des génies n'en ont pas la moindre idée._
 > _Lorsqu'un être devient un Aiôn, il exerce un pouvoir sur les Voies, et il devient libre de choisir la répartition de l'énergie imaginaire comme il le souhaite, tout en subissant les restrictions du « Primum Mobile »._
 >
 > _L'Aiôn de la Destruction ne vise qu'à détruire l'univers, alors que l'Aiôn de l'Érudition désire découvrir la réponse à toute existence. Entre-temps, l'Aiôn de la Préservation poursuit la construction de murs, et l'Aiôn de l'Enigmata se consacre à obscurcir tout ce qui est connu..._
-> ___
 >  <div align="right" style="font-style: italic;">Himeko</div>
 
 ## Liste des Aiôns connus
