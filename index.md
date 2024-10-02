@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 <div style="display: flex; align-items: center;">
     <img src="images/hsr_logo.png" alt="Description" style="margin-right: 10px; width: 200px; height: auto;"/>
     <div>
