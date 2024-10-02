@@ -1,3 +1,5 @@
+<!-- .slide: data-background-color="black" -->
+
 <div align="center">
 
   <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
