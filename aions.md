@@ -1,19 +1,19 @@
 <link rel="stylesheet" href="style.css">
 
-<div align="center">
-
-  <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-
-    <div style="text-align: right; margin-right: 10px;"><h1>La mythologie de</h1></div>
-    <div style="text-align: left;">
-      <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Honkai_Star_Rail.png/revision/latest/scale-to-width-down/320?cb=20230707214654" width="200" />
+<div style="display: flex; align-items: center;">
+    <img src="images/hsr_logo.png" alt="Description" style="margin-right: 10px; width: 200px; height: auto;"/>
+    <div>
+        <p style="margin: 0; font-size: 1.5em; font-weight: bold;">La mythologie de Honkai: Star Rail</p>
+        <p style="margin: 0;">
+            <a href="index.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ACCUEIL</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="aions.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">AIÔNS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="voies.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">VOIES</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="factions.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">FACTIONS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="eclaireurs.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ÉCLAIREURS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="emanateurs.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ÉMANATEURS</a>&nbsp;→
+        </p>
     </div>
-
-  </div>
-
 </div>
-
-<a href="https://yn10.github.io/2024-2025/index" style="color: #C09C7B;">← Page d'introduction</a>
 
 <h2 style="color:#C09C7B;">Aiôns</h2>
 
