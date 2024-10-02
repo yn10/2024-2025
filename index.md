@@ -5,12 +5,12 @@
     <div>
         <p style="margin: 0; font-size: 1.5em; font-weight: bold;">La mythologie de Honkai: Star Rail</p>
         <p style="margin: 0;">
-            <a href="link_to_accueil" style="color: white; font-weight: bold; text-decoration: none; font-variant: small-caps;">ACCUEIL</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="link_to_aions" style="color: white; font-weight: bold; text-decoration: none; font-variant: small-caps;">AIÔNS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="link_to_voies" style="color: white; font-weight: bold; text-decoration: none; font-variant: small-caps;">VOIES</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="link_to_factions" style="color: white; font-weight: bold; text-decoration: none; font-variant: small-caps;">FACTIONS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="link_to_eclaireurs" style="color: white; font-weight: bold; text-decoration: none; font-variant: small-caps;">ÉCLAIREURS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="link_to_emanateurs" style="color: white; font-weight: bold; text-decoration: none; font-variant: small-caps;">ÉMANATEURS</a>&nbsp;→
+            <a href="link_to_accueil" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ACCUEIL</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="link_to_aions" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">AIÔNS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="link_to_voies" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">VOIES</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="link_to_factions" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">FACTIONS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="link_to_eclaireurs" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ÉCLAIREURS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="link_to_emanateurs" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ÉMANATEURS</a>&nbsp;→
         </p>
     </div>
 </div>
