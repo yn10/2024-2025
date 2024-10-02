@@ -14,19 +14,24 @@ Dans [_Honkai: Star Rail_](index.md), les Aiôns sont des êtres mystérieux de 
 
 ## Description
 
-> Les gens en savent très peu sur la vie mystérieuse parmi les vastes mers stellaires. Les connaissances limitées des formes de vie intelligentes leur permettent seulement de discerner, au travers de croyances, les Aiôns qui arpentent des voies imperceptibles pour les mortels et qui déploient des pouvoirs incompréhensibles. Avec le temps, les Aiôns devinrent l'incarnation de concepts philosophiques condensés, au travers des légendes répandues par le bouche-à-oreille.
+Les gens en savent très peu sur la vie mystérieuse parmi les vastes mers stellaires. Les connaissances limitées des formes de vie intelligentes leur permettent seulement de discerner, au travers de croyances, les Aiôns qui arpentent des voies imperceptibles pour les mortels et qui déploient des pouvoirs incompréhensibles. Avec le temps, les Aiôns devinrent l'incarnation de concepts philosophiques condensés, au travers des légendes répandues par le bouche-à-oreille.
 >
-> Quiconque se trouve sur la Voie d'un Aiôn finira par se sentir submergé par une sensation lointaine, comme si la glace l'avait emprisonné dans le cosmos à des années-lumière. Nombreux sont ceux qui croient que c'est le seul lien possible entre Aiôns et mortels
+>Quiconque se trouve sur la Voie d'un Aiôn finira par se sentir submergé par une sensation lointaine, comme si la glace l'avait emprisonné dans le cosmos à des années-lumière. Nombreux sont ceux qui croient que c'est le seul lien possible entre Aiôns et mortels
 Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la galaxie. Chaque Aiôn est associé à une Voie, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
->  <div align="right" style="font-style: italic;">Banque de données, Aiôns</div>
+><div align="right" style="font-style: italic;">Banque de données, Aiôns</div>
 
-> _Les Aiôns sont les êtres les plus mystérieux de la galaxie. Tout ce que nous savons, c'est qu'ils se sont élevés à partir de formes de vie intelligente. Quant au pourquoi du comment, même les grosses têtes de la Société
+>_Les Aiôns sont les êtres les plus mystérieux de la galaxie. Tout ce que nous savons, c'est qu'ils se sont élevés à partir de formes de vie intelligente. Quant au pourquoi du comment, même les grosses têtes de la Société
 des génies n'en ont pas la moindre idée._
 >
-> _Lorsqu'un être devient un Aiôn, il exerce un pouvoir sur les Voies, et il devient libre de choisir la répartition de l'énergie imaginaire comme il le souhaite, tout en subissant les restrictions du « Primum Mobile »._
+>_Lorsqu'un être devient un Aiôn, il exerce un pouvoir sur les Voies, et il devient libre de choisir la répartition de l'énergie imaginaire comme il le souhaite, tout en subissant les restrictions du « Primum Mobile »._
 >
-> _L'Aiôn de la Destruction ne vise qu'à détruire l'univers, alors que l'Aiôn de l'Érudition désire découvrir la réponse à toute existence. Entre-temps, l'Aiôn de la Préservation poursuit la construction de murs, et l'Aiôn de l'Enigmata se consacre à obscurcir tout ce qui est connu..._
->  <div align="right" style="font-style: italic;">Himeko</div>
+>_L'Aiôn de la Destruction ne vise qu'à détruire l'univers, alors que l'Aiôn de l'Érudition désire découvrir la réponse à toute existence. Entre-temps, l'Aiôn de la Préservation poursuit la construction de murs, et l'Aiôn de l'Enigmata se consacre à obscurcir tout ce qui est connu..._
+><div align="right" style="font-style: italic;">Himeko</div>
+
+>_Les Aions sont si puissants qu'ils sont quasiment invincibles. Bien avant la naissance de la Destruction, un désastre de l'essaim créé par la Propagation s'était propagé d'étoile en étoile, et la guerre entre l'Abondance et la Chasse avait déja entraîné l'annihilation de plusieurs mondes._
+>
+>_Il y a au moins une règle immuable : les Aiôns ne peuvent agir que dans le cadre de leur Primum Mobile. Ainsi, tu peux être certain que l'Harmonie ne fera jamais de vagues._
+>  <div align="right" style="font-style: italic;">Welt Yang</div>
 
 ## Liste des Aiôns connus
 
