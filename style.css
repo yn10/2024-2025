@@ -1,0 +1,14 @@
+/* Set background color and default text color */
+body {
+  background-color: #1a1a21;
+  color: #E6E6E6; /* Default text color */
+}
+
+/* Additional styling to ensure readability */
+a {
+  color: #E6E6E6; /* Set link color */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #E6E6E6; /* Set heading color */
+}
