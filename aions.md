@@ -21,11 +21,11 @@ Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la gal
 >  <div align="right" style="font-style: italic;">Banque de données, Aiôns</div>
 
 > _Les Aiôns sont les êtres les plus mystérieux de la galaxie. Tout ce que nous savons, c'est qu'ils se sont élevés à partir de formes de vie intelligente. Quant au pourquoi du comment, même les grosses têtes de la Société
-des génies n'en ont pas la moindre idée.
+des génies n'en ont pas la moindre idée._
 >
-> Lorsqu'un être devient un Aiôn, il exerce un pouvoir sur les Voies, et il devient libre de choisir la répartition de l'énergie imaginaire comme il le souhaite, tout en subissant les restrictions du « Primum Mobile ».
+> _Lorsqu'un être devient un Aiôn, il exerce un pouvoir sur les Voies, et il devient libre de choisir la répartition de l'énergie imaginaire comme il le souhaite, tout en subissant les restrictions du « Primum Mobile »._
 >
-> L'Aiôn de la Destruction ne vise qu'à détruire l'univers, alors que l'Aiôn de l'Érudition désire découvrir la réponse à toute existence. Entre-temps, l'Aiôn de la Préservation poursuit la construction de murs, et l'Aiôn de l'Enigmata se consacre à obscurcir tout ce qui est connu..._
+> _L'Aiôn de la Destruction ne vise qu'à détruire l'univers, alors que l'Aiôn de l'Érudition désire découvrir la réponse à toute existence. Entre-temps, l'Aiôn de la Préservation poursuit la construction de murs, et l'Aiôn de l'Enigmata se consacre à obscurcir tout ce qui est connu..._
 > ___
 >  <div align="right" style="font-style: italic;">Himeko</div>
 
