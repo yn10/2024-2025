@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 <div align="center">
 
   <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
