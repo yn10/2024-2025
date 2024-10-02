@@ -1,5 +1,3 @@
-<div style="background-color: #1a1a21; padding: 20px; color: white;">
-
 <div align="center">
 
   <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
@@ -34,5 +32,3 @@ Dans _Honkai: Star Rail_, les <a href="https://yn10.github.io/2024-2025/aions" s
   
 ##
 <div align="center"><a href="https://yn10.github.io/2024-2025/emanateurs" style="color: #C09C7B;">Émanateurs</a></div>
-
-</div>
