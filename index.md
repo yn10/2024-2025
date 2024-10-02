@@ -5,12 +5,12 @@
     <div>
         <p style="margin: 0; font-size: 1.5em; font-weight: bold;">La mythologie de Honkai: Star Rail</p>
         <p style="margin: 0;">
-            <a href="link_to_accueil" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ACCUEIL</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="link_to_aions" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">AIÔNS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="link_to_voies" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">VOIES</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="link_to_factions" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">FACTIONS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="link_to_eclaireurs" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ÉCLAIREURS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="link_to_emanateurs" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ÉMANATEURS</a>&nbsp;→
+            <a href="accueil.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ACCUEIL</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="aions.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">AIÔNS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="voies.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">VOIES</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="factions.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">FACTIONS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="eclaireurs.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ÉCLAIREURS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="emanateurs.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ÉMANATEURS</a>&nbsp;→
         </p>
     </div>
 </div>
@@ -23,16 +23,20 @@ Dans _Honkai: Star Rail_, les [Aiôns](aions.md) sont des êtres divins qui pré
 
 ## Sommaire
 
-<div align="center"><a href="https://yn10.github.io/2024-2025/aions" style="color: #C09C7B;">Aiôns</a></div>
+[AIÔNS](aions.md)
 
 ##
-<div align="center"><a href="https://yn10.github.io/2024-2025/voies" style="color: #C09C7B;">Voies</a></div>
+
+[VOIES](voies.md)
 
 ##
-<div align="center"><a href="https://yn10.github.io/2024-2025/factions" style="color: #C09C7B;">Factions</a></div>
+
+[FACTIONS](factions.md)
 
 ##
-<div align="center"><a href="https://yn10.github.io/2024-2025/eclaireurs" style="color: #C09C7B;">Éclaireurs</a></div>
-  
+
+[ÉCLAIREURS](eclaireurs.md)
+
 ##
-<div align="center"><a href="https://yn10.github.io/2024-2025/emanateurs" style="color: #C09C7B;">Émanateurs</a></div>
+
+[ÉMANATEURS](emanateurs.md)
