@@ -16,7 +16,7 @@
 ## Introduction
 
 <div style="display: flex; align-items: center; background-color: #1a1a21; padding: 10px; border-radius: 5px;">
-    <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/Light_Cone_I_Venture_Forth_to_Hunt.pn" alt="Description" style="margin-right: 10px; width: 201px; height: auto;"/>
+    <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/Light_Cone_I_Venture_Forth_to_Hunt.png" alt="Description" style="margin-right: 10px; width: 201px; height: auto;"/>
     <div>
         <p style="margin: 0; color: white;">First line of text.</p>
         <p style="margin: 0; color: white;">Second line of text.</p>
