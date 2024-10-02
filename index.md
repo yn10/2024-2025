@@ -15,10 +15,8 @@
 
 ## Introduction
 
-<div style="display: flex; align-items: center;">
-    <div style="background-color: #1a1a21; padding: 10px; border-radius: 5px;">
-        <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Site-logo.png" alt="Description" style="width: 201px; height: auto;"/>
-    </div>
+<div style="display: flex; align-items: center; background-color: #1a1a21; padding: 10px; border-radius: 5px;">
+    <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Site-logo.png" alt="Description" style="margin-right: 10px; width: 201px; height: auto;"/>
     <div>
         <p style="margin: 0; color: white;">First line of text.</p>
         <p style="margin: 0; color: white;">Second line of text.</p>
