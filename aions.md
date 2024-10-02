@@ -33,7 +33,7 @@ Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la gal
 | Ligne 4    | Fuli  | Le Souvenir  | En vie  | Valeur 4  |
 | Ligne 5    | HooH  | L'Équilibre  | En vie  | Valeur 4  |
 | Ligne 6    | IX  | La Nihilité  | En vie  | Valeur 4  |
-| Ligne 7    | Idrila  | La Beauté  | Disparu et présumé décédé  | Valeur 4  |
+| <div align="center">?</div>    | Idrila  | La Beauté  | Disparu et présumé décédé  | Valeur 4  |
 | Ligne 8    | Lan  | La Chasse  | En vie  | Valeur 4  |
 | Ligne 9    | Long  | La Permanence  | Décédé  | Valeur 4  |
 | Ligne 10   | Mythus  | L'Enigmata  | En vie  | Valeur 4  |
@@ -42,7 +42,7 @@ Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la gal
 | Ligne 13   | Ouroboros  | La Voracité  | En vie  | Valeur 4  |
 | Ligne 14   | Qlipoth  | La Préservation  | En vie  | Valeur 4  |
 | Ligne 15   | Tayzzyronth  | La Propagation  | En vie  | Valeur 4  |
-| Ligne 16   | Terminus  | La Finalité  | En vie  | Valeur 4  |
+| <div align="center">?</div>   | Terminus  | La Finalité  | En vie  | Valeur 4  |
 | Ligne 17   | Xipe  | L'Harmonie  | En vie  | Valeur 4  |
 | Ligne 18   | Yaoshi  | L'Abondance  | En vie  | Valeur 4  |
 
