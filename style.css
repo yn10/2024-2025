@@ -1,39 +1,70 @@
 /* Set background color and default text color */
 body {
-  background-color: #1a1a21;
-  color: #E6E6E6; /* Default text color */
+    background-color: #1a1a21; /* Dark background for the body */
+    color: #E6E6E6; /* Default text color */
 }
 
 /* Ensure images have transparent backgrounds */
 img {
-  background-color: transparent; /* Ensure images have a transparent background */
-  display: block; /* Ensure there is no extra space below images */
-  max-width: 100%; /* Ensure images are responsive */
-  height: auto; /* Maintain aspect ratio */
+    background-color: transparent; /* Ensure images have a transparent background */
+    display: block; /* Ensure there is no extra space below images */
+    max-width: 100%; /* Ensure images are responsive */
+    height: auto; /* Maintain aspect ratio */
 }
 
 /* Additional styling to ensure readability */
 body h1 {
-  color: #C09C7B; /* Specificity for h1 */
+    color: #C09C7B; /* Specificity for h1 */
 }
 
 body a {
-  color: #C09C7B; /* Specificity for links */
+    color: #C09C7B; /* Specificity for links */
 }
 
 h2, h3, h4, h5, h6 {
-  color: #E6E6E6; /* Set heading color for other headings */
+    color: #E6E6E6; /* Set heading color for other headings */
 }
 
 /* Styling for blockquotes */
 body blockquote {
-  background-color: #2B272B; /* Background color for blockquotes */
-  color: #E6E6E6 !important; /* Force text color for blockquotes */
-  padding: 10px; /* Add some padding for better readability */
-  border-left: 5px solid #C09C7B; /* Optional: add a left border for emphasis */
+    background-color: #2B272B; /* Background color for blockquotes */
+    color: #E6E6E6 !important; /* Force text color for blockquotes */
+    padding: 10px; /* Add some padding for better readability */
+    border-left: 5px solid #C09C7B; /* Optional: add a left border for emphasis */
 }
 
 /* Additional rule to ensure images render with the same background color */
 body img {
-  background-color: #1a1a21; /* Set background color to match the body's background */
+    background-color: #1a1a21; /* Set background color to match the body's background */
+}
+
+/* Optional: Ensure list items are readable */
+body ul, body ol {
+    color: #E6E6E6; /* Text color for lists */
+}
+
+/* Optional: Add styles for code blocks */
+pre, code {
+    background-color: #2B272B; /* Background color for code blocks */
+    color: #E6E6E6; /* Text color for code */
+    padding: 5px; /* Padding for better readability */
+    border-radius: 5px; /* Optional: rounded corners for code blocks */
+}
+
+/* Optional: Add styles for tables */
+table {
+    width: 100%; /* Ensure tables use the full width */
+    border-collapse: collapse; /* Collapse borders for cleaner look */
+}
+
+table th, table td {
+    border: 1px solid #C09C7B; /* Border color for table cells */
+    padding: 8px; /* Padding inside table cells */
+    color: #E6E6E6; /* Text color for table cells */
+}
+
+/* Add hover effects for links */
+body a:hover {
+    color: #E6E6E6; /* Change link color on hover */
+    text-decoration: underline; /* Underline on hover for emphasis */
 }
