@@ -5,7 +5,7 @@
     <div>
         <p style="margin: 0; font-size: 1.5em; font-weight: bold;">La mythologie de Honkai: Star Rail</p>
         <p style="margin: 0;">
-            <a href="accueil.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ACCUEIL</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="index.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">ACCUEIL</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="aions.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">AIÔNS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="voies.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">VOIES</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="factions.md" style="color: white; font-weight: bold; text-decoration: none; text-transform: lowercase; font-variant: small-caps;">FACTIONS</a>&nbsp;→&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
