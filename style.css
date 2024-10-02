@@ -33,16 +33,3 @@ td, th {
   padding: 10px;
   border: 1px solid #C09C7B;
 }
-.container {
-    display: flex; /* Use flexbox for layout */
-    align-items: center; /* Center items vertically */
-    background-color: #1a1a21; /* Background color */
-    padding: 10px; /* Padding around content */
-    border-radius: 5px; /* Optional: rounded corners */
-}
-
-.container img {
-    margin-right: 10px; /* Space between image and text */
-    width: 201px; /* Set the width of the image */
-    height: auto; /* Maintain aspect ratio */
-}
