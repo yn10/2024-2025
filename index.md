@@ -6,7 +6,7 @@
 
     <div style="text-align: right; margin-right: 10px;"><h1>La mythologie de</h1></div>
     <div style="text-align: left;">
-      <img src="images/hsr_logo.png" width="200" />
+      <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Honkai_Star_Rail.png/revision/latest/scale-to-width-down/320?cb=20230707214654" width="200" />
     </div>
 
   </div>
