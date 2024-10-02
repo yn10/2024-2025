@@ -13,7 +13,7 @@
 
 <h2 style="color:#C09C7B;">Aiôns</h2>
 
-Les Aiôns sont des êtres divins dans Honkai: Star Rail qui président la galaxie. Chaque Aiôn est associé à une Voie, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
+Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la galaxie. Chaque Aiôn est associé à une Voie, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
 
 > Aeons are the most mysterious beings in the galaxy. All we know is that THEY ascended from the form of intelligent beings. As for the how and why, even the heavyweights over at the Genius Society haven't the slightest clue.
 > Upon ascending to Aeon-hood, that being gains power over the Paths, free to choose the allocation of imaginary energy however THEY wish, while suffering the restrictions of the "Primum Mobile."
