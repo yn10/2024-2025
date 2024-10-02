@@ -27,22 +27,22 @@ Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la gal
 
 | Image | Nom | Voie | Statut | Faction(s) |
 |------------|------------|------------|------------|------------|
-| Ligne 1    | Aha  | L'Allégresse  | Valeur 3  | Valeur 4  |
-| Ligne 2    | Akivili  | Le Pionnier  | Valeur 3  | Valeur 4  |
-| Ligne 3    | Ena  | L'Ordre  | Valeur 3  | Valeur 4  |
-| Ligne 4    | Fuli  | Le Souvenir  | Valeur 3  | Valeur 4  |
-| Ligne 5    | HooH  | L'Équilibre  | Valeur 3  | Valeur 4  |
-| Ligne 6    | IX  | La Nihilité  | Valeur 3  | Valeur 4  |
-| Ligne 7    | Idrila  | La Beauté  | Valeur 3  | Valeur 4  |
-| Ligne 8    | Lan  | La Chasse  | Valeur 3  | Valeur 4  |
-| Ligne 9    | Long  | La Permanence  | Valeur 3  | Valeur 4  |
-| Ligne 10   | Mythus  | L'Enigmata  | Valeur 3  | Valeur 4  |
-| Ligne 11   | Nanook  | La Destruction  | Valeur 3  | Valeur 4  |
-| Ligne 12   | Sagesse  | L'Érudition  | Valeur 3  | Valeur 4  |
-| Ligne 13   | Ouroboros  | La Voracité  | Valeur 3  | Valeur 4  |
-| Ligne 14   | Qlipoth  | La Préservation  | Valeur 3  | Valeur 4  |
-| Ligne 15   | Tayzzyronth  | La Propagation  | Valeur 3  | Valeur 4  |
-| Ligne 16   | Terminus  | La Finalité  | Valeur 3  | Valeur 4  |
-| Ligne 17   | Xipe  | L'Harmonie  | Valeur 3  | Valeur 4  |
-| Ligne 18   | Yaoshi  | L'Abondance  | Valeur 3  | Valeur 4  |
+| Ligne 1    | Aha  | L'Allégresse  | En vie  | Valeur 4  |
+| Ligne 2    | Akivili  | Le Pionnier  | Disparu et présumé décédé  | Valeur 4  |
+| Ligne 3    | Ena  | L'Ordre  | Absorbé par Xipe  | Valeur 4  |
+| Ligne 4    | Fuli  | Le Souvenir  | En vie  | Valeur 4  |
+| Ligne 5    | HooH  | L'Équilibre  | En vie  | Valeur 4  |
+| Ligne 6    | IX  | La Nihilité  | En vie  | Valeur 4  |
+| Ligne 7    | Idrila  | La Beauté  | Disparu et présumé décédé  | Valeur 4  |
+| Ligne 8    | Lan  | La Chasse  | En vie  | Valeur 4  |
+| Ligne 9    | Long  | La Permanence  | Décédé  | Valeur 4  |
+| Ligne 10   | Mythus  | L'Enigmata  | En vie  | Valeur 4  |
+| Ligne 11   | Nanook  | La Destruction  | En vie  | Valeur 4  |
+| Ligne 12   | Sagesse  | L'Érudition  | En vie  | Valeur 4  |
+| Ligne 13   | Ouroboros  | La Voracité  | En vie  | Valeur 4  |
+| Ligne 14   | Qlipoth  | La Préservation  | En vie  | Valeur 4  |
+| Ligne 15   | Tayzzyronth  | La Propagation  | En vie  | Valeur 4  |
+| Ligne 16   | Terminus  | La Finalité  | En vie  | Valeur 4  |
+| Ligne 17   | Xipe  | L'Harmonie  | En vie  | Valeur 4  |
+| Ligne 18   | Yaoshi  | L'Abondance  | En vie  | Valeur 4  |
 
