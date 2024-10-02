@@ -28,8 +28,8 @@ Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la gal
 | Image | Nom | Voie | Statut | Faction(s) |
 |------------|------------|------------|------------|------------|
 | ![AHA](https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/Aeon_Aha.png/)    | Aha  | L'Allégresse  | En vie  | Valeur 4  |
-| Ligne 2    | Akivili  | Le Pionnier  | Disparu et présumé décédé  | Valeur 4  |
-| Ligne 3    | Ena  | L'Ordre  | Absorbé par Xipe  | Valeur 4  |
+| <div align="center">?</div>    | Akivili  | Le Pionnier  | Disparu et présumé décédé  | Valeur 4  |
+| ![Ena](https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Aeon_Ena.png)    | Ena  | L'Ordre  | Absorbé par Xipe  | Valeur 4  |
 | Ligne 4    | Fuli  | Le Souvenir  | En vie  | Valeur 4  |
 | Ligne 5    | HooH  | L'Équilibre  | En vie  | Valeur 4  |
 | Ligne 6    | IX  | La Nihilité  | En vie  | Valeur 4  |
