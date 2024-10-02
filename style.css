@@ -4,11 +4,20 @@ body {
   color: #E6E6E6; /* Default text color */
 }
 
-/* Additional styling to ensure readability */
-a {
-  color: #E6E6E6; /* Set link color */
+/* Ensure images have transparent backgrounds */
+img {
+  background-color: transparent;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #E6E6E6; /* Set heading color */
+/* Additional styling to ensure readability */
+a {
+  color: #C09C7B; /* Set link color */
+}
+
+h1 {
+  color: #C09C7B; /* Set h1 color */
+}
+
+h2, h3, h4, h5, h6 {
+  color: #E6E6E6; /* Set heading color for other headings */
 }
