@@ -11,6 +11,8 @@
 
 </div>
 
+<a href="https://yn10.github.io/2024-2025/index" style="color: #C09C7B;">← Page d'introduction</a>
+
 <h2 style="color:#C09C7B;">Aiôns</h2>
 
 Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la galaxie. Chaque Aiôn est associé à une Voie, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
@@ -22,4 +24,25 @@ Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la gal
 >  <div align="right">-Himeko</div>
 
 ## Liste des Aiôns connus
+
+| Image | Nom | Voie | Statut | Faction(s) |
+|------------|------------|------------|------------|------------|
+| Ligne 1    | Aha  | L'Allégresse  | Valeur 3  | Valeur 4  |
+| Ligne 2    | Akivili  | Le Pionnier  | Valeur 3  | Valeur 4  |
+| Ligne 3    | Ena  | L'Ordre  | Valeur 3  | Valeur 4  |
+| Ligne 4    | Fuli  | Le Souvenir  | Valeur 3  | Valeur 4  |
+| Ligne 5    | HooH  | L'Équilibre  | Valeur 3  | Valeur 4  |
+| Ligne 6    | IX  | La Nihilité  | Valeur 3  | Valeur 4  |
+| Ligne 7    | Idrila  | La Beauté  | Valeur 3  | Valeur 4  |
+| Ligne 8    | Lan  | La Chasse  | Valeur 3  | Valeur 4  |
+| Ligne 9    | Long  | La Permanence  | Valeur 3  | Valeur 4  |
+| Ligne 10   | Mythus  | L'Enigmata  | Valeur 3  | Valeur 4  |
+| Ligne 11   | Nanook  | La Destruction  | Valeur 3  | Valeur 4  |
+| Ligne 12   | Sagesse  | L'Érudition  | Valeur 3  | Valeur 4  |
+| Ligne 13   | Ouroboros  | La Voracité  | Valeur 3  | Valeur 4  |
+| Ligne 14   | Qlipoth  | La Préservation  | Valeur 3  | Valeur 4  |
+| Ligne 15   | Tayzzyronth  | La Propagation  | Valeur 3  | Valeur 4  |
+| Ligne 16   | Terminus  | La Finalité  | Valeur 3  | Valeur 4  |
+| Ligne 17   | Xipe  | L'Harmonie  | Valeur 3  | Valeur 4  |
+| Ligne 18   | Yaoshi  | L'Abondance  | Valeur 3  | Valeur 4  |
 
