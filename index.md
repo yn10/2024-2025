@@ -15,9 +15,9 @@
 
 ## Introduction
 
-<div style="display: flex; align-items: center;">
-    <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Honkai_Star_Rail.png" alt="Description" style="margin-right: 10px; width: 201px; height: auto;"/>
-    <div>
+<div style="display: flex; align-items: center; background-color: transparent;">
+    <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Site-logo.png" alt="Description" style="margin-right: 10px; width: 201px; height: auto;"/>
+    <div style="background-color: transparent;">
         <p style="margin: 0;">First line of text.</p>
         <p style="margin: 0;">Second line of text.</p>
     </div>
