@@ -1,5 +1,4 @@
 <!--#include virtual="header.html" -->
-
 ## Introduction
 
 _Honkai: Star Rail_ est un jeu de rôle tactique développé par miHoYo (connu en dehors de Chine sous le nom de HoYoverse). Il s'agit du quatrième volet de la série Honkai, utilisant de nouveaux personnages ainsi que des versions alternatives des mêmes personnages de _Honkai Impact 3rd_. Il est sorti officiellement le 26 avril 2023 sur Microsoft Windows, Android et iOS.
