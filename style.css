@@ -6,16 +6,16 @@ body {
 
 /* Ensure images have transparent backgrounds */
 img {
-  background-color: transparent;
+  background-color: transparent; /* Ensure images have a transparent background */
 }
 
 /* Additional styling to ensure readability */
-a {
-  color: #C09C7B; /* Set link color */
+body h1 {
+  color: #C09C7B; /* Specificity for h1 */
 }
 
-h1 {
-  color: #C09C7B; /* Set h1 color */
+body a {
+  color: #C09C7B; /* Specificity for links */
 }
 
 h2, h3, h4, h5, h6 {
