@@ -18,7 +18,7 @@
 <div style="display: flex; align-items: center;">
     <img src="images/hsr_logo.png" alt="Description" style="margin-right: 10px; width: 200px; height: auto;"/>
     <div>
-        <p style="margin: 0;">First line of text.</p>
+        <p style="margin: 0; font-size: 1.5em; font-weight: bold;">La mythologie de Honkai: Star Rail</p>
         <p style="margin: 0;">Second line of text.</p>
     </div>
 </div>
