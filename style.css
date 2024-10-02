@@ -1,3 +1,6 @@
+Sure! Here’s the CSS without any comments:
+
+```css
 body {
   background-color: #1a1a21;
   color: #E6E6E6;
@@ -20,4 +23,16 @@ body blockquote {
   color: #E6E6E6 !important;
   padding: 10px;
   border-left: 5px solid #C09C7B;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td, th {
+  background-color: #1a1a21;
+  color: #E6E6E6;
+  padding: 10px;
+  border: 1px solid #C09C7B;
 }
