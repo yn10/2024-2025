@@ -6,7 +6,7 @@
 
     <div style="text-align: right; margin-right: 10px;"><h1>La mythologie de</h1></div>
     <div style="text-align: left;">
-      <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Honkai_Star_Rail.png/revision/latest/scale-to-width-down/320?cb=20230707214654" width="200" />
+      <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Honkai_Star_Rail.png" width="200" />
     </div>
 
   </div>
@@ -15,7 +15,13 @@
 
 ## Introduction
 
-[](https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Honkai_Star_Rail.png/revision/latest/scale-to-width-down/320?cb=20230707214654)
+<div style="display: flex; align-items: center;">
+    <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Honkai_Star_Rail.png" alt="Description" style="margin-right: 10px; width: 100px;"/>
+    <div>
+        <p>First line of text.</p>
+        <p>Second line of text.</p>
+    </div>
+</div>
 
 _Honkai: Star Rail_ est un jeu de rôle tactique développé par miHoYo (connu en dehors de Chine sous le nom de HoYoverse). Il s'agit du quatrième volet de la série Honkai, utilisant de nouveaux personnages ainsi que des versions alternatives des mêmes personnages de _Honkai Impact 3rd_. Il est sorti officiellement le 26 avril 2023 sur Microsoft Windows, Android et iOS.
 
