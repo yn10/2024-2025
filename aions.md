@@ -20,14 +20,14 @@ Dans [_Honkai: Star Rail_](index.md), les Aiôns sont des êtres mystérieux de 
 Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la galaxie. Chaque Aiôn est associé à une Voie, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
 >  <div align="right" style="font-style: italic;">Banque de données, Aiôns</div>
 
-> Aeons are the most mysterious beings in the galaxy. All we know is that THEY ascended from the form of intelligent beings. As for the how and why, even the heavyweights over at the Genius Society haven't the slightest clue.
+> _Les Aiôns sont les êtres les plus mystérieux de la galaxie. Tout ce que nous savons, c'est qu'ils se sont élevés à partir de formes de vie intelligente. Quant au pourquoi du comment, même les grosses têtes de la Société
+des génies n'en ont pas la moindre idée.
 >
-> Upon ascending to Aeon-hood, that being gains power over the Paths, free to choose the allocation of imaginary energy however THEY wish, while suffering the restrictions of the "Primum Mobile."
+> Lorsqu'un être devient un Aiôn, il exerce un pouvoir sur les Voies, et il devient libre de choisir la répartition de l'énergie imaginaire comme il le souhaite, tout en subissant les restrictions du « Primum Mobile ».
 >
-> The Aeon of Destruction seeks only to destroy the universe, while the Aeon of Erudition wants to find the answer for all that exists. Meanwhile, the Aeon of Preservation continues to forge walls, and the Aeon of Enigmata devotes themself to obscuring all that is known...
+> L'Aiôn de la Destruction ne vise qu'à détruire l'univers, alors que l'Aiôn de l'Érudition désire découvrir la réponse à toute existence. Entre-temps, l'Aiôn de la Préservation poursuit la construction de murs, et l'Aiôn de l'Enigmata se consacre à obscurcir tout ce qui est connu..._
 > ___
->  <div align="right">- Himeko</div>
->
+>  <div align="right" style="font-style: italic;">Himeko</div>
 
 ## Liste des Aiôns connus
 
