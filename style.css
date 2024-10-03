@@ -18,8 +18,8 @@ h2, h3, h4, h5, h6 {
 blockquote {
   background-color: #2B272B;
   color: #E6E6E6 !important;
-  margin: 10px;
-  border-left: 0px solid #C09C7B;
+  margin: 100px;
+  border-left: 0px solid #1a1a21;
 }
 
 table {
