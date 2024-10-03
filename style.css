@@ -15,12 +15,36 @@ h2, h3, h4, h5, h6 {
   color: #E6E6E6;
 }
 
+/* Reset the default styles for blockquotes */
 blockquote {
-  background-color: #2B272B;
-  color: #E6E6E6 !important;
+    border: none; /* Remove any borders */
+    padding: 20px; /* Add consistent padding on all sides */
+    margin: 20px 0; /* Add vertical space before and after blockquote */
+    background-color: #f9f9f9; /* Optional: Light background for better visibility */
+    font-style: italic; /* Optional: Style the blockquote text */
+    color: #555; /* Optional: Text color */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    quotes: none; /* Remove quotation marks (if any) */
 }
+
+/* Remove the default styling for the blockquote's left border */
+blockquote:before,
+blockquote:after {
+    content: '';
+    display: none; /* Hide any default quote indicators */
+}
+
+/* Optional: Additional styling if blockquotes have a class */
+blockquote.custom {
+    border: none; /* Ensuring no border for custom blockquotes */
+    padding: 20px; /* Add consistent padding */
+    margin: 20px 0; /* Maintain spacing */
+    background-color: #f0f0f0; /* Example of different background for custom */
+}
+
 
 td, th {
   background-color: #1a1a21;
   color: #E6E6E6;
 }
+
