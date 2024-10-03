@@ -19,10 +19,6 @@ h2, h3, h4, h5, h6 {
 blockquote {
   background-color: #2B272B;
   color: #E6E6E6 !important;
-  overflow: auto;
-  max-height: 300px;
-  line-height: 1.5em;
-  padding: 15px;
 }
 
 td, th {
