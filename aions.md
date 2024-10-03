@@ -20,18 +20,13 @@ Dans [_Honkai: Star Rail_](index.md), les Aiôns sont des êtres mystérieux de 
 Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la galaxie. Chaque Aiôn est associé à une Voie, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
 ><div align="right" style="font-style: italic;">Banque de données, Aiôns</div>
 
->_Les Aiôns sont les êtres les plus mystérieux de la galaxie. Tout ce que nous savons, c'est qu'ils se sont élevés à partir de formes de vie intelligente. Quant au pourquoi du comment, même les grosses têtes de la Société
-des génies n'en ont pas la moindre idée._
->
->_Lorsqu'un être devient un Aiôn, il exerce un pouvoir sur les Voies, et il devient libre de choisir la répartition de l'énergie imaginaire comme il le souhaite, tout en subissant les restrictions du « Primum Mobile »._
->
->_L'Aiôn de la Destruction ne vise qu'à détruire l'univers, alors que l'Aiôn de l'Érudition désire découvrir la réponse à toute existence. Entre-temps, l'Aiôn de la Préservation poursuit la construction de murs, et l'Aiôn de l'Enigmata se consacre à obscurcir tout ce qui est connu..._
-><div align="right" style="font-style: italic;">Himeko</div>
+|_Les Aiôns sont les êtres les plus mystérieux de la galaxie. Tout ce que nous savons, c'est qu'ils se sont élevés à partir de formes de vie intelligente. Quant au pourquoi du comment, même les grosses têtes de la Société des génies n'en ont pas la moindre idée._<br><br>_Lorsqu'un être devient un Aiôn, il exerce un pouvoir sur les Voies, et il devient libre de choisir la répartition de l'énergie imaginaire comme il le souhaite, tout en subissant les restrictions du « Primum Mobile »._<br><br>_L'Aiôn de la Destruction ne vise qu'à détruire l'univers, alors que l'Aiôn de l'Érudition désire découvrir la réponse à toute existence. Entre-temps, l'Aiôn de la Préservation poursuit la construction de murs, et l'Aiôn de l'Enigmata se consacre à obscurcir tout ce qui est connu..._|
+|--------|
+|<div align="right" style="font-style: italic;">Himeko</div>|
 
->_Les Aions sont si puissants qu'ils sont quasiment invincibles. Bien avant la naissance de la Destruction, un désastre de l'essaim créé par la Propagation s'était propagé d'étoile en étoile, et la guerre entre l'Abondance et la Chasse avait déja entraîné l'annihilation de plusieurs mondes._
->
->_Il y a au moins une règle immuable : les Aiôns ne peuvent agir que dans le cadre de leur Primum Mobile. Ainsi, tu peux être certain que l'Harmonie ne fera jamais de vagues._
->  <div align="right" style="font-style: italic;">Welt Yang</div>
+|_Les Aions sont si puissants qu'ils sont quasiment invincibles. Bien avant la naissance de la Destruction, un désastre de l'essaim créé par la Propagation s'était propagé d'étoile en étoile, et la guerre entre l'Abondance et la Chasse avait déja entraîné l'annihilation de plusieurs mondes._<br><br>_Il y a au moins une règle immuable : les Aiôns ne peuvent agir que dans le cadre de leur Primum Mobile. Ainsi, tu peux être certain que l'Harmonie ne fera jamais de vagues._|
+|--------|
+|<div align="right" style="font-style: italic;">Welt Yang</div>|
 
 ## Liste des Aiôns connus
 
