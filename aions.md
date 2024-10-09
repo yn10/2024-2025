@@ -18,7 +18,7 @@ Dans [_Honkai: Star Rail_](/index.md), les Aiôns sont des êtres mystérieux de
 >
 >Quiconque se trouve sur la Voie d'un Aiôn finira par se sentir submergé par une sensation lointaine, comme si la glace l'avait emprisonné dans le cosmos à des années-lumière. Nombreux sont ceux qui croient que c'est le seul lien possible entre Aiôns et mortels
 Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la galaxie. Chaque Aiôn est associé à une Voie, par lequel ils peuvent utiliser son énergie à leur guise, mais ils y sont également liés pour le reste de leur vie.
-><div align="right" style="font-style: italic;"><img alt="Icon Data Bank" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" decoding="async" loading="lazy" width="30" height="30" data-image-name="Icon Data Bank.png" data-image-key="Icon_Data_Bank.png" data-relevant="0" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px;">Banque de données, Aiôns</div>
+><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; border-radius: 9999px;">Banque de données, Aiôns</div>
 
 ## Profil
 
