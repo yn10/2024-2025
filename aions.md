@@ -10,7 +10,7 @@
 
 # Aiôns
 
-Dans [_Honkai: Star Rail_](index.md), les Aiôns sont des êtres mystérieux de dimension supérieure qui sont semblables à des dieux. Ce sont eux qui dirigent l'univers.
+Dans [_Honkai: Star Rail_](/index.md), les Aiôns sont des êtres mystérieux de dimension supérieure qui sont semblables à des dieux. Ce sont eux qui dirigent l'univers.
 
 ## Description
 
@@ -22,7 +22,7 @@ Les Aiôns sont des êtres divins dans _Honkai: Star Rail_ qui président la gal
 
 ## Profil
 
-La naissance d'un Aiôn fait naître une [Voie](voies) sur laquelle l'Aiôn possède alors un pouvoir. Les Aiôns ont également la possibilité de donner accès à leur pouvoir, faisant d'un mortel un Émanateur de leur Voie. Les Aiôns ne peuvent agir que selon leur « Primum Mobile », ce qui les rend incapables de faire quoi que ce soit de contraire à leur Voie.
+La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn possède alors un pouvoir. Les Aiôns ont également la possibilité de donner accès à leur pouvoir, faisant d'un mortel un [Émanateur](/emanateurs.md) de leur Voie. Les Aiôns ne peuvent agir que selon leur « Primum Mobile », ce qui les rend incapables de faire quoi que ce soit de contraire à leur Voie.
 
 ## Liste des Aiôns connus
 
