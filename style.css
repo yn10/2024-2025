@@ -1,46 +1,17 @@
-html, body {
-    margin: 0; /* Remove default margin from html and body */
-    padding: 0; /* Remove default padding from html and body */
-    width: 100%; /* Ensure body takes full width */
-    background-color: #1a1a21;
-    color: #E6E6E6;
+body {
+  background-color: #1a1a21;
+  color: #E6E6E6;
 }
 
 h1, a {
-    color: #C09C7B;
+  color: #C09C7B;
 }
 
 h2, h3, h4, h5, h6 {
-    color: #E6E6E6;
+  color: #E6E6E6;
 }
 
 blockquote {
-    background-color: #2B272B;
-    color: #E6E6E6 !important;
-}
-
-table {
-    width: 100%; /* Ensure the table takes the full width */
-    border-collapse: collapse; /* Collapse borders to avoid doubling */
-    border: 1px solid #47474F; /* Outer table border */
-    margin: 0; /* Ensure no margin affecting width */
-}
-
-tr:first-child {
-    background-color: #292930; /* Set background for the first row */
-}
-
-td, th {
-    background-color: #1E1E25;
-    color: #E6E6E6;
-    border: none; /* No borders for cells */
-}
-
-tr td, tr th {
-    border-left: none !important; /* Ensure no vertical borders */
-    border-right: none !important; /* Ensure no vertical borders */
-}
-
-tr {
-    border-bottom: 1px solid #47474F; /* Horizontal borders only */
+  background-color: #2B272B;
+  color: #E6E6E6 !important;
 }
