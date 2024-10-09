@@ -47,3 +47,8 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 | Ligne 17   | Xipe  | L'Harmonie  | En vie  | Valeur 4  |
 | Ligne 18   | Yaoshi  | L'Abondance  | En vie  | Valeur 4  |
 
+
+| Header 1       | Header 2                         |
+|----------------|----------------------------------|
+| Normal Cell    | > This is a blockquote inside a table. |
+| Another Cell   | More text                        |
