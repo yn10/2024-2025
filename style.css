@@ -1,6 +1,7 @@
 body {
   background-color: #1a1a21;
   color: #E6E6E6;
+  margin: 0; /* Remove default margin */
 }
 
 h1, a {
@@ -16,14 +17,21 @@ blockquote {
   color: #E6E6E6 !important;
 }
 
-td, th {
-  background-color: #1E1E25;
-  color: #E6E6E6;
-  border: none; /* No borders for cells */
+table {
+  width: 100%; /* Ensure the table takes the full width */
+  border-collapse: collapse; /* Collapse borders to avoid doubling */
+  border: 1px solid #47474F; /* Outer table border */
+  margin: 0; /* Ensure no margin affecting width */
 }
 
 tr:first-child {
   background-color: #292930; /* Set background for the first row */
+}
+
+td, th {
+  background-color: #1E1E25;
+  color: #E6E6E6;
+  border: none; /* No borders for cells */
 }
 
 tr td, tr th {
@@ -33,10 +41,4 @@ tr td, tr th {
 
 tr {
   border-bottom: 1px solid #47474F; /* Horizontal borders only */
-}
-
-table {
-  width: 100%; /* Added width 100% */
-  border-collapse: collapse; /* Collapse borders to avoid doubling */
-  border: 1px solid #47474F; /* Outer table border */
 }
