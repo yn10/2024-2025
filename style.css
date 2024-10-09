@@ -11,6 +11,14 @@ h2, h3, h4, h5, h6 {
   color: #E6E6E6;
 }
 
+/* Style for horizontal lines */
+hr {
+  border: none; /* Removes the default border */
+  height: 1px; /* Adjust this value for thickness */
+  background-color: #C09C7B; /* Match the line color to headings */
+  margin: 20px 0; /* Adds space above and below the line */
+}
+
 blockquote {
   background-color: #2B272B;
   color: #E6E6E6 !important;
