@@ -16,18 +16,8 @@ blockquote {
   color: #E6E6E6 !important;
 }
 
-.article-table, .wikitable, .fandom-table {
-  width: 100%; /* Set width to 100% */
-  margin: 1em 0; /* Margin for spacing */
-  border-radius: 4px; /* Corner radius */
-  overflow: hidden; /* Ensure child elements do not overflow */
-  outline: 1px solid #47474F; /* Outer outline */
-  outline-offset: -1px; /* Adjust outline offset */
-  background: rgba(30, 30, 37, 0.02); /* Light background color */
-}
-
 td, th {
-  background-color: #1E1E25; /* Cell background color */
+  background-color: #1E1E25;
   color: #E6E6E6;
   border: none; /* No borders for cells */
 }
@@ -42,7 +32,7 @@ tr {
 }
 
 table {
-  border-collapse: separate; /* Separate borders to avoid doubling */
-  border-spacing: 2px; /* Space between cells */
+  width: 100%; /* Added width 100% */
+  border-collapse: collapse; /* Collapse borders to avoid doubling */
   border: 1px solid #47474F; /* Outer table border */
 }
