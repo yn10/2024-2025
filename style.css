@@ -19,7 +19,12 @@ blockquote {
 td, th {
   background-color: #1E1E25;
   color: #E6E6E6;
-  border: none; /* Remove all borders inside the cells */
+  border: none; /* No borders for cells */
+}
+
+tr td, tr th {
+  border-left: none !important; /* Ensure no vertical borders */
+  border-right: none !important; /* Ensure no vertical borders */
 }
 
 tr {
@@ -27,7 +32,6 @@ tr {
 }
 
 table {
-  border-collapse: separate; /* Prevent inner borders */
-  border-spacing: 0; /* Remove spacing between cells */
+  border-collapse: collapse; /* Collapse borders to avoid doubling */
   border: 1px solid #47474F; /* Outer table border */
 }
