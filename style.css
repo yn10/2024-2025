@@ -22,6 +22,10 @@ td, th {
   border: none; /* No borders for cells */
 }
 
+tr:first-child {
+  background-color: #292930; /* Set background for the first row */
+}
+
 tr td, tr th {
   border-left: none !important; /* Ensure no vertical borders */
   border-right: none !important; /* Ensure no vertical borders */
