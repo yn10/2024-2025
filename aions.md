@@ -28,11 +28,68 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 
 ## Liste des Aiôns connus
 
+### Aha - L'Allégresse  
+Statut: En vie
+
+### Akivili - Le Pionnier  
+Statut: Disparu et présumé décédé  
+
+### Ena - L'Ordre  
+Statut: Absorbé par Xipe l'Harmonie  
+
+### Fuli - Le Souvenir  
+Statut: En vie  
+
+### HooH - L'Équilibre  
+Statut: Valeur 4  
+
+### IX - La Nihilité  
+Statut: En vie
+
+### Idrila - La Beauté  
+Statut: Disparu et présumé décédé  
+
+### Lan - La Chasse  
+Statut: En vie  
+
+### Long - La Permanence  
+Statut: Décédé  
+
+### Mythus - L'Enigmata  
+Statut: En vie  
+
+### Nanook - La Destruction  
+Statut: En vie  
+
+### Sagesse - L'Érudition  
+Statut: En vie  
+
+### Ouroboros - La Voracité  
+Statut: En vie  
+
+### Qlipoth - La Préservation  
+Statut: En vie  
+
+### Tayzzyronth - La Propagation  
+Statut: En vie  
+
+### Terminus - La Finalité  
+Statut: En vie  
+
+### Xipe - L'Harmonie  
+Statut: En vie  
+
+### Yaoshi - L'Abondance  
+Statut: En vie  
+
+
+
+
 | Image | Nom | Voie | Statut | Faction(s) |
 |------------|------------|------------|------------|------------|
-| ![](https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/Aeon_Aha.png/)    | Aha  | L'Allégresse  | En vie  | Valeur 4  |
+| Aha  | L'Allégresse  | En vie  | Valeur 4  |
 | <div align="center">?</div>    | Akivili  | Le Pionnier  | Disparu et présumé décédé  | Valeur 4  |
-| ![](https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Aeon_Ena.png)    | Ena  | L'Ordre  | Absorbé par Xipe l'Harmonie  | Valeur 4  |
+| Ena  | L'Ordre  | Absorbé par Xipe l'Harmonie  | Valeur 4  |
 | Ligne 4    | Fuli  | Le Souvenir  | En vie  | >test 4  |
 | Ligne 5    | HooH  | L'Équilibre  | En vie  | <blockquote>Valeur 4</blockquote>  |
 | Ligne 6    | IX  | La Nihilité  | En vie  | Valeur 4  |
