@@ -23,8 +23,6 @@ Dans [_Honkai: Star Rail_](/index.md), les Aiôns sont des êtres mystérieux de
 
 ## Profil
 
----
-
 La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn possède alors un pouvoir. Les Aiôns ont également la possibilité de donner accès à leur pouvoir, faisant d'un mortel un [Émanateur](/emanateurs.md) de leur Voie. Les Aiôns ne peuvent agir que selon leur « Primum Mobile », ce qui les rend incapables de faire quoi que ce soit de contraire à leur Voie.
 
 ## Liste des Aiôns connus
@@ -53,7 +51,7 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 Statut: En vie
 
 >~~L'Érudition n'est qu'un tas de ferraille, la Préservation stupide, la Chasse n'a aucun sens de l'humour et la Destruction est dingue. C'est la même chose pour tous les Aiôns. Quel dommage pour Aha ! »~~
-><div align="right">— Un Fou masqué expert autoproclamé en astronomie</div><br>
+<div align="right"><i><s>— Un Fou masqué expert autoproclamé en astronomie</s></i></div><br>
 >Savourer les joies du bonheur est un privilège propre aux êtres sensibles. Ni les rochers poussiéreux ni les étoiles lointaines ne peuvent comprendre l'humour de cette vie.  
 >Partez à la recherche d'adversaires dignes de votre courage, participez à des jeux chronophages et restez indifférents face à la réussite ou à l'échec.  
 >Cherchez les rires aux éclats, les fantaisies du destin et la grandeur musicale.
