@@ -11,6 +11,12 @@ h2, h3, h4, h5, h6 {
   color: #E6E6E6;
 }
 
+/* New style for strikethrough text */
+s, del, strike {
+  text-decoration: none; /* Remove strikethrough */
+  color: #DBC291; /* Set color to #DBC291 */
+}
+
 blockquote {
   background-color: #2B272B;
   color: #E6E6E6 !important;
