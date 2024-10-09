@@ -19,14 +19,15 @@ blockquote {
 td, th {
   background-color: #1E1E25;
   color: #E6E6E6;
-  border: none;
+  border: none; /* Remove all borders inside the cells */
 }
 
 tr {
-  border-bottom: 1px solid #47474F;
+  border-bottom: 1px solid #47474F; /* Horizontal borders only */
 }
 
 table {
-  border-collapse: collapse;
-  border: 1px solid #47474F;
+  border-collapse: separate; /* Prevent inner borders */
+  border-spacing: 0; /* Remove spacing between cells */
+  border: 1px solid #47474F; /* Outer table border */
 }
