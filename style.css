@@ -24,5 +24,13 @@ blockquote {
 td, th {
   background-color: #1a1a21;
   color: #E6E6E6;
+  border-left: none; /* Remove the inner vertical border */
+  border-right: none; /* Remove the inner vertical border */
 }
 
+/* Optional: Style the horizontal borders if needed */
+table, th, td {
+  border-collapse: collapse; /* Ensure borders don't double up */
+  border-top: 1px solid #E6E6E6; /* Horizontal top border */
+  border-bottom: 1px solid #E6E6E6; /* Horizontal bottom border */
+}
