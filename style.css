@@ -3,11 +3,7 @@ body {
   color: #E6E6E6;
 }
 
-h1 {
-  color: #C09C7B;
-}
-
-a {
+h1, a {
   color: #C09C7B;
 }
 
@@ -15,7 +11,6 @@ h2, h3, h4, h5, h6 {
   color: #E6E6E6;
 }
 
-/* Reset the default styles for blockquotes */
 blockquote {
   background-color: #2B272B;
   color: #E6E6E6 !important;
@@ -24,6 +19,14 @@ blockquote {
 td, th {
   background-color: #1a1a21;
   color: #E6E6E6;
-  border-left: none; /* Remove the inner vertical border */
-  border-right: none; /* Remove the inner vertical border */
+  border: none;
+}
+
+tr {
+  border-bottom: 1px solid #E6E6E6;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #E6E6E6;
 }
