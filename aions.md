@@ -100,34 +100,4 @@ Statut: En vie
 Statut: En vie  
 
 ### Yaoshi - L'Abondance  
-Statut: En vie  
-
-
-
-
-| Image | Nom | Voie | Statut | Faction(s) |
-|------------|------------|------------|------------|------------|
-| Aha  | L'Allégresse  | En vie  | Valeur 4  |
-| <div align="center">?</div>    | Akivili  | Le Pionnier  | Disparu et présumé décédé  | Valeur 4  |
-| Ena  | L'Ordre  | Absorbé par Xipe l'Harmonie  | Valeur 4  |
-| Ligne 4    | Fuli  | Le Souvenir  | En vie  | >test 4  |
-| Ligne 5    | HooH  | L'Équilibre  | En vie  | <blockquote>Valeur 4</blockquote>  |
-| Ligne 6    | IX  | La Nihilité  | En vie  | Valeur 4  |
-| <div align="center">?</div>    | Idrila  | La Beauté  | Disparu et présumé décédé  | Valeur 4  |
-| Ligne 8    | Lan  | La Chasse  | En vie  | Valeur 4  |
-| Ligne 9    | Long  | La Permanence  | Décédé  | Valeur 4  |
-| Ligne 10   | Mythus  | L'Enigmata  | En vie  | Valeur 4  |
-| Ligne 11   | Nanook  | La Destruction  | En vie  | Valeur 4  |
-| Ligne 12   | Sagesse  | L'Érudition  | En vie  | Valeur 4  |
-| Ligne 13   | Ouroboros  | La Voracité  | En vie  | Valeur 4  |
-| Ligne 14   | Qlipoth  | La Préservation  | En vie  | Valeur 4  |
-| Ligne 15   | Tayzzyronth  | La Propagation  | En vie  | Valeur 4  |
-| <div align="center">?</div>   | Terminus  | La Finalité  | En vie  | Valeur 4  |
-| Ligne 17   | Xipe  | L'Harmonie  | En vie  | Valeur 4  |
-| Ligne 18   | Yaoshi  | L'Abondance  | En vie  | Valeur 4  |
-
-
-| Header 1       | Header 2                         |
-|----------------|----------------------------------|
-| Normal Cell    | > This is a blockquote inside a table. |
-| Another Cell   | More text                        |
+Statut: En vie
