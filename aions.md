@@ -32,7 +32,7 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 | <div align="center">?</div>    | Akivili  | Le Pionnier  | Disparu et présumé décédé  | Valeur 4  |
 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Aeon_Ena.png)    | Ena  | L'Ordre  | Absorbé par Xipe l'Harmonie  | Valeur 4  |
 | Ligne 4    | Fuli  | Le Souvenir  | En vie  | >test 4  |
-| Ligne 5    | HooH  | L'Équilibre  | En vie  | Valeur 4  |
+| Ligne 5    | HooH  | L'Équilibre  | En vie  | <blockquote>Valeur 4</blockquote>  |
 | Ligne 6    | IX  | La Nihilité  | En vie  | Valeur 4  |
 | <div align="center">?</div>    | Idrila  | La Beauté  | Disparu et présumé décédé  | Valeur 4  |
 | Ligne 8    | Lan  | La Chasse  | En vie  | Valeur 4  |
