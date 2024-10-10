@@ -152,11 +152,13 @@ Statut: En vie
 ### Nanook la Destruction
 Statut: En vie
 
+<div style="text-align: center;"><img src="images/aions/Nanook.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 ---
 ### Sagesse l'Érudition
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Nanook.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Sagesse.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 ---
 ### Ouroboros la Voracité
