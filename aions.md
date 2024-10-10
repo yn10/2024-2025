@@ -87,9 +87,15 @@ Akivili a un jour mystérieusement disparu, laissant un groupe de Sans Noms loya
 
 ---
 ### Ena l'Ordre  
-Statut: Absorbé par [Xipe](#xipe-lharmonie))  
+Statut: Absorbé par [Xipe](#xipe-lharmonie)
 
 <div style="text-align: center;"><img src="images/aions/Ena.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
+Ena était l'un des plus anciens Aiôns, qualifié d'être de justice et de magnificence. Elle surveillait attentivement les actions des mortels pour assurer l'ordre de l'univers, tout en faisant preuve d'intolérance à l'égard de toute forme de chaos ou de conflit. Avant sa chute, sa Voie avait éliminé de nombreuses calamités, telles que le Désastre de l'Essaim.
+
+Sa voix est composée de syllabes qui suivent l'ascension et la chute des civilisations en accord avec la Voie de l'Aiôn. Elle fut absorbée lors du Désastre de l'Essaim par Xipe lorsque ce dernier devint un Eon, en raison du chevauchement de l'Harmonie avec le concept de l'Ordre.
+
+Ena prend la forme d'un œil géant observant et manipulant une marionnette blanche et dorée sans tronc, voilée d'un tissu en lambeaux également blanc et doré, et couronnée d'une auréole d'or. La marionnette tient et contemple un orbe renfermant le cosmos.
 
 ---
 ### Fuli le Souvenir  
