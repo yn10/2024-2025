@@ -24,3 +24,7 @@ blockquote {
 img[src$=".png"] {
   background-color: #1a1a21;
 }
+
+img[src$=".webp"] {
+  background-color: #1a1a21;
+}
