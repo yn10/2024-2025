@@ -87,7 +87,7 @@ Akivili a un jour mystérieusement disparu, laissant un groupe de Sans Noms loya
 
 ---
 ### Ena l'Ordre  
-Statut: Absorbé par Xipe l'Harmonie  
+Statut: Absorbé par [Xipe](#xipe-lharmonie))  
 
 <div style="text-align: center;"><img src="images/aions/Ena.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
