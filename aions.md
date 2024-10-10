@@ -47,7 +47,7 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 - [Xipe l'Harmonie](#xipe-lharmonie)
 - [Yaoshi l'Abondance](#yaoshi-labondance)
 
-### Aha l'Allégresse  
+### Aha l'Allégresse
 Statut: En vie
 
 
@@ -56,8 +56,8 @@ Statut: En vie
 
 >~~*« L'Érudition n'est qu'un tas de ferraille, la Préservation stupide, la Chasse n'a aucun sens de l'humour et la Destruction est dingue. C'est la même chose pour tous les Aiôns. Quel dommage pour Aha ! »*~~
 ><div align="right"><i><s>— Un Fou masqué expert autoproclamé en astronomie</s></i></div><br>
->Savourer les joies du bonheur est un privilège propre aux êtres sensibles. Ni les rochers poussiéreux ni les étoiles lointaines ne peuvent comprendre l'humour de cette vie.  
->Partez à la recherche d'adversaires dignes de votre courage, participez à des jeux chronophages et restez indifférents face à la réussite ou à l'échec.  
+>Savourer les joies du bonheur est un privilège propre aux êtres sensibles. Ni les rochers poussiéreux ni les étoiles lointaines ne peuvent comprendre l'humour de cette vie.\
+>Partez à la recherche d'adversaires dignes de votre courage, participez à des jeux chronophages et restez indifférents face à la réussite ou à l'échec.\
 >Cherchez les rires aux éclats, les fantaisies du destin et la grandeur musicale.
 >
 >---
@@ -68,14 +68,14 @@ Aha est l'un des quelques Aiôns les plus proches des mortels, incitant ses fid�
 Aha prend la forme d'une silhouette humaine obscure et sans tête tenant des accessoires de cirque.
 
 ---
-### Akivili le Pionnier  
+### Akivili le Pionnier
 Statut: Disparu et présumé décédé
 
 <div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 >~~*« D'innombrables étoiles s'élancent à travers le ciel ... Choisis la bonne et elle portera ton vœu au loin, vers des milliers de mondes. »*~~
 ><div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div><br>
->La roue du destin indique trois directions : l'Inconnu, le Connu et l'Impossible à connaître. Pour lui, l'idée de l'Inconnu est tolérable, mais l'Impossible à connaître relève plus du défi.
+>La roue du destin indique trois directions : l'Inconnu, le Connu et l'Impossible à connaître. Pour lui, l'idée de l'Inconnu est tolérable, mais l'Impossible à connaître relève plus du défi.\
 >Akivili quitta le monde reclus de Pegana et continua d'explorer les frontières inconnues de l'univers, dans l'espoir de trouver la fin de l'Arbre de l'Existence. Malheureusement, un accident causa la fin brutale du destin d'Akivili.
 >
 >---
@@ -88,7 +88,7 @@ Akivili est originaire de la planète Pegana et a créé l'Astral Express pour s
 Akivili a un jour mystérieusement disparu, laissant un groupe de Sans Noms loyaux poursuivre ce qu'il avait commencé et continuer son exploration de l'inconnu. L'Express tomba finalement en panne et resta en sommeil pendant des milliers d'années avant qu'Himeko ne le découvre et le répare. Selon Kafka, [Sagesse](#sagesse-lérudition) est peut-être le seul être à savoir ce qui est arrivé à Akivili. La Banque de données fait également allusion à un « accident » qui aurait brusquement mis fin au destin d'Akivili, tandis qu'Himeko parle d'Akivili comme d'une personne décédée.
 
 ---
-### Ena l'Ordre  
+### Ena l'Ordre
 Statut: Absorbé par [Xipe](#xipe-lharmonie)
 
 <div style="text-align: center;"><img src="images/aions/Ena.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
@@ -100,33 +100,33 @@ Sa voix est composée de syllabes qui suivent l'ascension et la chute des civili
 Ena prend la forme d'un œil géant observant et manipulant une marionnette blanche et dorée sans tronc, voilée d'un tissu en lambeaux également blanc et doré, et couronnée d'une auréole d'or. La marionnette tient et contemple un orbe renfermant le cosmos.
 
 ---
-### Fuli le Souvenir  
-Statut: En vie  
+### Fuli le Souvenir
+Statut: En vie
 
 <div style="text-align: center;"><img src="images/aions/Fuli.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 >~~*« Le temps : le voleur le plus assidu au monde. Il nous vole sans cesse notre présent et l'enferme dans un coin de la Mémoire. Certains sont obsédés par la récupération de ce qu'ils ont perdu ... D'autres ne s'en soucient guère. »*~~
 ><div align="right"><s>— La vie est trop courte <i>par un anonyme</i></s></div><br>
->La plus crystalline des mémoires est celle de la tolérance infinie. Elle enregistre tout, sans aversion ni préférence. Elle conserve de manière désintéressée chaque fait et chaque geste enchanteur. Elle est une rivière pleine de vie, un trésor de sagesse éternelle.
+>La plus crystalline des mémoires est celle de la tolérance infinie. Elle enregistre tout, sans aversion ni préférence. Elle conserve de manière désintéressée chaque fait et chaque geste enchanteur. Elle est une rivière pleine de vie, un trésor de sagesse éternelle.\
 >— Et Fuli est le poisson qui remonte le courant. Fuli est la clé du coffre-fort contenant le trésor. Il est au cœur du sanctuaire et assiste inlassablement à la façon dont le monde et tous ceux qui s'y trouvent commettent les mêmes erreurs, encore et encore.
 >
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
 ---
-### HooH l'Équilibre  
+### HooH l'Équilibre
 Statut: En vie
 ---
-### IX la Nihilité  
+### IX la Nihilité
 Statut: En vie
 ---
-### Idrila la Beauté  
+### Idrila la Beauté
 Statut: Disparu et présumé décédé
 
 <div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 ---
-### Lan la Chasse  
+### Lan la Chasse
 Statut: En vie
 
 ---
@@ -135,50 +135,50 @@ dedee\
 Statut: Décédé
 
 ---
-### Mythus l'Enigmata  
+### Mythus l'Enigmata
 Statut: En vie
 
 ---
-### Nanook la Destruction  
+### Nanook la Destruction
 Statut: En vie
 
 ---
-### Sagesse l'Érudition  
+### Sagesse l'Érudition
 Statut: En vie
 
 ---
-### Ouroboros la Voracité  
+### Ouroboros la Voracité
 Statut: En vie
 
 ---
-### Qlipoth la Préservation  
+### Qlipoth la Préservation
 Statut: En vie
 
 ---
-### Tayzzyronth la Propagation  
+### Tayzzyronth la Propagation
 Statut: En vie
 
 ---
-### Terminus la Finalité  
+### Terminus la Finalité
 Statut: En vie
 
 <div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 ---
-### Xipe l'Harmonie  
+### Xipe l'Harmonie
 Statut: En vie
 
 <div style="text-align: center;"><img src="images/aions/Xipe.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 >~~*« Le monde est en harmonie et les étoiles brillent de mille feux. Louée soit son Éminence ! Tout est connecté et le vent de la bénédiction souffle à travers les terres ! »*~~
 ><div align="right"><s>— Odes de l'Harmonie <i>, I</i></s></div><br>
->Un Aiôn multiple venu de plusieurs mondes harmonieux. La glorieuse Xipe aux mille visages entonne des chants de joie et d'unité.
+>Un Aiôn multiple venu de plusieurs mondes harmonieux. La glorieuse Xipe aux mille visages entonne des chants de joie et d'unité.\
 >Pour combattre la brutalité des lois de l'univers, les formes de vie intelligentes doivent oublier leur lâche égoïsme et les différences entre les êtres pour fusionner en un chant harmonieux, et pousser les forts à aider les faibles et protéger la vie avec la mort.
 >
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
 ---
-### Yaoshi l'Abondance  
+### Yaoshi l'Abondance
 Statut: En vie
 ---
