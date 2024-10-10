@@ -50,7 +50,9 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 ### Aha l'Allégresse  
 Statut: En vie
 
+
 <div style="text-align: center;"><img src="images/aions/Aha.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 
 >~~*« L'Érudition n'est qu'un tas de ferraille, la Préservation stupide, la Chasse n'a aucun sens de l'humour et la Destruction est dingue. C'est la même chose pour tous les Aiôns. Quel dommage pour Aha ! »*~~
 ><div align="right"><i><s>— Un Fou masqué expert autoproclamé en astronomie</s></i></div><br>
