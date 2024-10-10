@@ -49,7 +49,8 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 
 ### Aha l'Allégresse  
 Statut: En vie
-[https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/Aeon_Aha.png]
+[https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/Aeon_Aha.png](Aha l'Allégresse)
+
 >~~*« L'Érudition n'est qu'un tas de ferraille, la Préservation stupide, la Chasse n'a aucun sens de l'humour et la Destruction est dingue. C'est la même chose pour tous les Aiôns. Quel dommage pour Aha ! »*~~
 ><div align="right"><i><s>— Un Fou masqué expert autoproclamé en astronomie</s></i></div><br>
 >Savourer les joies du bonheur est un privilège propre aux êtres sensibles. Ni les rochers poussiéreux ni les étoiles lointaines ne peuvent comprendre l'humour de cette vie.  
