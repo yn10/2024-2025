@@ -75,8 +75,12 @@ Statut: Disparu et présumé décédé
 ### Ena l'Ordre  
 Statut: Absorbé par Xipe l'Harmonie  
 
+<div style="text-align: center;"><img src="images/aions/Ena.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 ### Fuli le Souvenir  
 Statut: En vie  
+
+<div style="text-align: center;"><img src="images/aions/Fuli.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 >~~*« Le temps : le voleur le plus assidu au monde. Il nous vole sans cesse notre présent et l'enferme dans un coin de la Mémoire. Certains sont obsédés par la récupération de ce qu'ils ont perdu ... D'autres ne s'en soucient guère. »*~~
 ><div align="right"><s>— La vie est trop courte <i>par un anonyme</i></s></div><br>
