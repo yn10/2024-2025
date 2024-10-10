@@ -50,9 +50,7 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 ### Aha l'Allégresse
 Statut: En vie
 
-
 <div style="text-align: center;"><img src="images/aions/Aha.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
-
 
 >~~*« L'Érudition n'est qu'un tas de ferraille, la Préservation stupide, la Chasse n'a aucun sens de l'humour et la Destruction est dingue. C'est la même chose pour tous les Aiôns. Quel dommage pour Aha ! »*~~
 ><div align="right"><i><s>— Un Fou masqué expert autoproclamé en astronomie</s></i></div><br>
@@ -116,9 +114,15 @@ Statut: En vie
 ---
 ### HooH l'Équilibre
 Statut: En vie
+
+<div style="text-align: center;"><img src="images/aions/HooH.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 ---
 ### IX la Nihilité
 Statut: En vie
+
+<div style="text-align: center;"><img src="images/aions/IX.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 ---
 ### Idrila la Beauté
 Statut: Disparu et présumé décédé
@@ -129,14 +133,20 @@ Statut: Disparu et présumé décédé
 ### Lan la Chasse
 Statut: En vie
 
+<div style="text-align: center;"><img src="images/aions/Lan.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 ---
 ### Long la Permanence
 dedee\
 Statut: Décédé
 
+<div style="text-align: center;"><img src="images/aions/Long.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 ---
 ### Mythus l'Enigmata
 Statut: En vie
+
+<div style="text-align: center;"><img src="images/aions/Mythus.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 ---
 ### Nanook la Destruction
@@ -146,17 +156,25 @@ Statut: En vie
 ### Sagesse l'Érudition
 Statut: En vie
 
+<div style="text-align: center;"><img src="images/aions/Nanook.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 ---
 ### Ouroboros la Voracité
 Statut: En vie
+
+<div style="text-align: center;"><img src="images/aions/Ouroboros.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 ---
 ### Qlipoth la Préservation
 Statut: En vie
 
+<div style="text-align: center;"><img src="images/aions/Qlipoth.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 ---
 ### Tayzzyronth la Propagation
 Statut: En vie
+
+<div style="text-align: center;"><img src="images/aions/Tayzzyronth.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 ---
 ### Terminus la Finalité
@@ -181,4 +199,5 @@ Statut: En vie
 ---
 ### Yaoshi l'Abondance
 Statut: En vie
----
+
+<div style="text-align: center;"><img src="images/aions/Yaoshi.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
