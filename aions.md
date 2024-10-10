@@ -63,7 +63,7 @@ Statut: En vie
 Statut: Disparu et présumé décédé  
 
 >~~*« D'innombrables étoiles s'élancent à travers le ciel ... Choisis la bonne et elle portera ton vœu au loin, vers des milliers de mondes. »*~~
-><div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div>
+><div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div><br>
 >La roue du destin indique trois directions : l'Inconnu, le Connu et l'Impossible à connaître. Pour lui, l'idée de l'Inconnu est tolérable, mais l'Impossible à connaître relève plus du défi.
 >Akivili quitta le monde reclus de Pegana et continua d'explorer les frontières inconnues de l'univers, dans l'espoir de trouver la fin de l'Arbre de l'Existence. Malheureusement, un accident causa la fin brutale du destin d'Akivili.
 >
@@ -75,6 +75,14 @@ Statut: Absorbé par Xipe l'Harmonie
 
 ### Fuli - Le Souvenir  
 Statut: En vie  
+
+>~~*« Le temps : le voleur le plus assidu au monde. Il nous vole sans cesse notre présent et l'enferme dans un coin de la Mémoire. Certains sont obsédés par la récupération de ce qu'ils ont perdu ... D'autres ne s'en soucient guère. »*~~
+><div align="right"><s>— La vie est trop courte <i>par un anonyme</i></s></div><br>
+>La plus crystalline des mémoires est celle de la tolérance infinie. Elle enregistre tout, sans aversion ni préférence. Elle conserve de manière désintéressée chaque fait et chaque geste enchanteur. Elle est une rivière pleine de vie, un trésor de sagesse éternelle.
+>— Et Fuli est le poisson qui remonte le courant. Fuli est la clé du coffre-fort contenant le trésor. Il est au cœur du sanctuaire et assiste inlassablement à la façon dont le monde et tous ceux qui s'y trouvent commettent les mêmes erreurs, encore et encore.
+>
+>---
+><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
 ### HooH - L'Équilibre  
 Statut: Valeur 4  
