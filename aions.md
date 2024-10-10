@@ -28,28 +28,28 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 ## Liste des Aiôns connus
 
 ## Table des matières
-- [Aha - L'Allégresse](#aha---lallégresse)
-- [Akivili - Le Pionnier](#akivili---le-pionnier)
-- [Ena - L'Ordre](#ena---lordre)
-- [Fuli - Le Souvenir](#fuli---le-souvenir)
-- [HooH - L'Équilibre](#hooH---léquilibre)
-- [IX - La Nihilité](#ix---la-nihilité)
-- [Idrila - La Beauté](#idrila---la-beauté)
-- [Lan - La Chasse](#lan---la-chasse)
-- [Long - La Permanence](#long---la-permanence)
-- [Mythus - L'Enigmata](#mythus---lenigmata)
-- [Nanook - La Destruction](#nanook---la-destruction)
-- [Sagesse - L'Érudition](#sagesse---lérudition)
-- [Ouroboros - La Voracité](#ouroboros---la-voracité)
-- [Qlipoth - La Préservation](#qlipoth---la-préservation)
-- [Tayzzyronth - La Propagation](#tayzzyronth---la-propagation)
-- [Terminus - La Finalité](#terminus---la-finalité)
-- [Xipe - L'Harmonie](#xipe---laharmonie)
-- [Yaoshi - L'Abondance](#yaoshi---labondance)
+- [Aha l'Allégresse](#aha-lallégresse)
+- [Akivili le Pionnier](#akivili-le-pionnier)
+- [Ena l'Ordre](#ena-lordre)
+- [Fuli le Souvenir](#fuli-le-souvenir)
+- [HooH l'Équilibre](#hooh-léquilibre)
+- [IX la Nihilité](#ix-la-nihilité)
+- [Idrila la Beauté](#idrila-la-beauté)
+- [Lan la Chasse](#lan-la-chasse)
+- [Long la Permanence](#long-la-permanence)
+- [Mythus l'Enigmata](#mythus-lenigmata)
+- [Nanook la Destruction](#nanook-la-destruction)
+- [Sagesse l'Érudition](#sagesse-lérudition)
+- [Ouroboros la Voracité](#ouroboros-la-voracité)
+- [Qlipoth la Préservation](#qlipoth-la-préservation)
+- [Tayzzyronth la Propagation](#tayzzyronth-la-propagation)
+- [Terminus la Finalité](#terminus-la-finalité)
+- [Xipe l'Harmonie](#xipe-lharmonie)
+- [Yaoshi l'Abondance](#yaoshi-labondance)
 
-### Aha - L'Allégresse  
+### Aha l'Allégresse  
 Statut: En vie
-
+[https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/Aeon_Aha.png]
 >~~*« L'Érudition n'est qu'un tas de ferraille, la Préservation stupide, la Chasse n'a aucun sens de l'humour et la Destruction est dingue. C'est la même chose pour tous les Aiôns. Quel dommage pour Aha ! »*~~
 ><div align="right"><i><s>— Un Fou masqué expert autoproclamé en astronomie</s></i></div><br>
 >Savourer les joies du bonheur est un privilège propre aux êtres sensibles. Ni les rochers poussiéreux ni les étoiles lointaines ne peuvent comprendre l'humour de cette vie.  
@@ -59,7 +59,7 @@ Statut: En vie
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-### Akivili - Le Pionnier  
+### Akivili le Pionnier  
 Statut: Disparu et présumé décédé  
 
 >~~*« D'innombrables étoiles s'élancent à travers le ciel ... Choisis la bonne et elle portera ton vœu au loin, vers des milliers de mondes. »*~~
@@ -70,10 +70,10 @@ Statut: Disparu et présumé décédé
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-### Ena - L'Ordre  
+### Ena l'Ordre  
 Statut: Absorbé par Xipe l'Harmonie  
 
-### Fuli - Le Souvenir  
+### Fuli le Souvenir  
 Statut: En vie  
 
 >~~*« Le temps : le voleur le plus assidu au monde. Il nous vole sans cesse notre présent et l'enferme dans un coin de la Mémoire. Certains sont obsédés par la récupération de ce qu'ils ont perdu ... D'autres ne s'en soucient guère. »*~~
@@ -84,44 +84,44 @@ Statut: En vie
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-### HooH - L'Équilibre  
+### HooH l'Équilibre  
 Statut: Valeur 4  
 
-### IX - La Nihilité  
+### IX la Nihilité  
 Statut: En vie
 
-### Idrila - La Beauté  
+### Idrila la Beauté  
 Statut: Disparu et présumé décédé  
 
-### Lan - La Chasse  
+### Lan la Chasse  
 Statut: En vie  
 
-### Long - La Permanence  
+### Long la Permanence  
 Statut: Décédé  
 
-### Mythus - L'Enigmata  
+### Mythus l'Enigmata  
 Statut: En vie  
 
-### Nanook - La Destruction  
+### Nanook la Destruction  
 Statut: En vie  
 
-### Sagesse - L'Érudition  
+### Sagesse l'Érudition  
 Statut: En vie  
 
-### Ouroboros - La Voracité  
+### Ouroboros la Voracité  
 Statut: En vie  
 
-### Qlipoth - La Préservation  
+### Qlipoth la Préservation  
 Statut: En vie  
 
-### Tayzzyronth - La Propagation  
+### Tayzzyronth la Propagation  
 Statut: En vie  
 
-### Terminus - La Finalité  
+### Terminus la Finalité  
 Statut: En vie  
 
-### Xipe - L'Harmonie  
+### Xipe l'Harmonie  
 Statut: En vie  
 
-### Yaoshi - L'Abondance  
+### Yaoshi l'Abondance  
 Statut: En vie
