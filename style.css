@@ -24,5 +24,4 @@ blockquote {
 
 img[src$=".png"] {
   background-color: #1a1a21;
-  display: block;
 }
