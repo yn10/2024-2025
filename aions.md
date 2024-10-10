@@ -79,7 +79,7 @@ Statut: Disparu et présumé décédé
 
 De tous les Aiôns connus, Akivili était celui qui était le plus proche de l'humanité ; on a pu le voir partir à l'aventure, se battre et faire la fête avec les mortels.
 
-Akivili est originaire de la planète Pegana et a créé l'Astral Express pour se déplacer, ainsi que les Sans Noms, à travers la galaxie. Sa création du réseau Star Rail a permis de relier et de faciliter la communication entre des galaxies éloignées les unes des autres. Les vestiges de ces rails stellaires sont encore aujourd'hui utilisés par la Corporation pour la Paix Interastrale et l'Alliance Xianzhou comme routes sûres.
+Akivili est originaire de la planète Pegana et a créé l'Astral Express pour se déplacer, ainsi que les Sans Noms, à travers la galaxie. Sa création du réseau Star Rail a permis de relier et de faciliter la communication entre des galaxies éloignées les unes des autres. Les vestiges de ces rails stellaires sont encore aujourd'hui utilisés par la Corporation pour la Paix Interastrale et l'Alliance Xianzhou comme des routes sûres.
 
 Akivili a un jour mystérieusement disparu, laissant un groupe de Sans Noms loyaux poursuivre ce qu'il avait commencé et continuer son exploration de l'inconnu. L'Express tomba finalement en panne et resta en sommeil pendant des milliers d'années avant qu'Himeko ne le découvre et le répare. Selon Kafka, [Sagesse](#sagesse-lérudition) est peut-être le seul être à savoir ce qui est arrivé à Akivili. La Banque de données fait également allusion à un « accident » qui aurait brusquement mis fin au destin d'Akivili, tandis qu'Himeko parle d'Akivili comme d'une personne décédée.
 
