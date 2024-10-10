@@ -50,7 +50,7 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 ### Aha - L'Allégresse  
 Statut: En vie
 
->~~*L'Érudition n'est qu'un tas de ferraille, la Préservation stupide, la Chasse n'a aucun sens de l'humour et la Destruction est dingue. C'est la même chose pour tous les Aiôns. Quel dommage pour Aha ! »*~~
+>~~*« L'Érudition n'est qu'un tas de ferraille, la Préservation stupide, la Chasse n'a aucun sens de l'humour et la Destruction est dingue. C'est la même chose pour tous les Aiôns. Quel dommage pour Aha ! »*~~
 ><div align="right"><i><s>— Un Fou masqué expert autoproclamé en astronomie</s></i></div><br>
 >Savourer les joies du bonheur est un privilège propre aux êtres sensibles. Ni les rochers poussiéreux ni les étoiles lointaines ne peuvent comprendre l'humour de cette vie.  
 >Partez à la recherche d'adversaires dignes de votre courage, participez à des jeux chronophages et restez indifférents face à la réussite ou à l'échec.  
@@ -61,6 +61,15 @@ Statut: En vie
 
 ### Akivili - Le Pionnier  
 Statut: Disparu et présumé décédé  
+
+>~~*« D'innombrables étoiles s'élancent à travers le ciel ... Choisis la bonne et elle portera ton vœu au loin, vers des milliers de mondes. »*~~
+<div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div>
+>Savourer les joies du bonheur est un privilège propre aux êtres sensibles. Ni les rochers poussiéreux ni les étoiles lointaines ne peuvent comprendre l'humour de cette vie.  
+>Partez à la recherche d'adversaires dignes de votre courage, participez à des jeux chronophages et restez indifférents face à la réussite ou à l'échec.  
+>Cherchez les rires aux éclats, les fantaisies du destin et la grandeur musicale.
+>
+>---
+><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
 ### Ena - L'Ordre  
 Statut: Absorbé par Xipe l'Harmonie  
