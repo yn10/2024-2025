@@ -21,10 +21,7 @@ blockquote {
   color: #E6E6E6 !important;
 }
 
-img[src$=".png"] {
-  background-color: #1a1a21;
-}
-
+img[src$=".png"],
 img[src$=".webp"] {
   background-color: #1a1a21;
 }
