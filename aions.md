@@ -67,7 +67,9 @@ Aha prend la forme d'une silhouette humaine obscure et sans tête tenant des acc
 
 ---
 ### Akivili le Pionnier  
-Statut: Disparu et présumé décédé  
+Statut: Disparu et présumé décédé
+
+<div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 >~~*« D'innombrables étoiles s'élancent à travers le ciel ... Choisis la bonne et elle portera ton vœu au loin, vers des milliers de mondes. »*~~
 ><div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div><br>
@@ -111,7 +113,10 @@ Statut: En vie
 Statut: En vie
 ---
 ### Idrila la Beauté  
-Statut: Disparu et présumé décédé  
+Statut: Disparu et présumé décédé
+
+<div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 ---
 ### Lan la Chasse  
 Statut: En vie  
@@ -138,7 +143,10 @@ Statut: En vie
 Statut: En vie  
 ---
 ### Terminus la Finalité  
-Statut: En vie  
+Statut: En vie
+
+<div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 ---
 ### Xipe l'Harmonie  
 Statut: En vie  
