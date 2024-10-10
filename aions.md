@@ -60,6 +60,7 @@ Statut: En vie
 >
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
+
 ---
 ### Akivili le Pionnier  
 Statut: Disparu et présumé décédé  
@@ -71,11 +72,13 @@ Statut: Disparu et présumé décédé
 >
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
+
 ---
 ### Ena l'Ordre  
 Statut: Absorbé par Xipe l'Harmonie  
 
 <div style="text-align: center;"><img src="images/aions/Ena.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+
 ---
 ### Fuli le Souvenir  
 Statut: En vie  
@@ -89,9 +92,10 @@ Statut: En vie
 >
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
+
 ---
 ### HooH l'Équilibre  
-Statut: Valeur 4  
+Statut: En vie
 ---
 ### IX la Nihilité  
 Statut: En vie
