@@ -12,8 +12,8 @@ h2, h3, h4, h5, h6 {
 }
 
 s, del, strike {
-  text-decoration: none; /* Remove strikethrough */
-  color: #DBC291; /* Set color to #DBC291 */
+  text-decoration: none;
+  color: #DBC291;
 }
 
 blockquote {
