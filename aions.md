@@ -127,25 +127,32 @@ Statut: Disparu et présumé décédé
 
 ---
 ### Lan la Chasse  
-Statut: En vie  
+Statut: En vie
+
 ---
 ### Long la Permanence  
-Statut: Décédé  
+Statut: Décédé
+
 ---
 ### Mythus l'Enigmata  
-Statut: En vie  
+Statut: En vie
+
 ---
 ### Nanook la Destruction  
-Statut: En vie  
+Statut: En vie
+
 ---
 ### Sagesse l'Érudition  
-Statut: En vie  
+Statut: En vie
+
 ---
 ### Ouroboros la Voracité  
-Statut: En vie  
+Statut: En vie
+
 ---
 ### Qlipoth la Préservation  
-Statut: En vie  
+Statut: En vie
+
 ---
 ### Tayzzyronth la Propagation  
 Statut: En vie  
