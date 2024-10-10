@@ -27,7 +27,7 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 
 ## Liste des Aiôns connus
 
-## Table des matières
+### Table des matières
 - [Aha l'Allégresse](#aha-lallégresse)
 - [Akivili le Pionnier](#akivili-le-pionnier)
 - [Ena l'Ordre](#ena-lordre)
