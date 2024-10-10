@@ -107,7 +107,7 @@ Statut: En vie
 
 >~~*« Le temps : le voleur le plus assidu au monde. Il nous vole sans cesse notre présent et l'enferme dans un coin de la Mémoire. Certains sont obsédés par la récupération de ce qu'ils ont perdu ... D'autres ne s'en soucient guère. »*~~
 ><div align="right"><s>— La vie est trop courte <i>par un anonyme</i></s></div><br>
->La plus crystalline des mémoires est celle de la tolérance infinie. Elle enregistre tout, sans aversion ni préférence. Elle conserve de manière désintéressée chaque fait et chaque geste enchanteur. Elle est une rivière pleine de vie, un trésor de sagesse éternelle.  
+>La plus crystalline des mémoires est celle de la tolérance infinie. Elle enregistre tout, sans aversion ni préférence. Elle conserve de manière désintéressée chaque fait et chaque geste enchanteur. Elle est une rivière pleine de vie, un trésor de sagesse éternelle.\
 >— Et Fuli est le poisson qui remonte le courant. Fuli est la clé du coffre-fort contenant le trésor. Il est au cœur du sanctuaire et assiste inlassablement à la façon dont le monde et tous ceux qui s'y trouvent commettent les mêmes erreurs, encore et encore.
 >
 >---
@@ -130,7 +130,8 @@ Statut: Disparu et présumé décédé
 Statut: En vie
 
 ---
-### Long la Permanence  
+### Long la Permanence
+dedee\
 Statut: Décédé
 
 ---
@@ -155,7 +156,8 @@ Statut: En vie
 
 ---
 ### Tayzzyronth la Propagation  
-Statut: En vie  
+Statut: En vie
+
 ---
 ### Terminus la Finalité  
 Statut: En vie
@@ -169,7 +171,7 @@ Statut: En vie
 <div style="text-align: center;"><img src="images/aions/Xipe.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
 
 >~~*« Le monde est en harmonie et les étoiles brillent de mille feux. Louée soit son Éminence ! Tout est connecté et le vent de la bénédiction souffle à travers les terres ! »*~~
-><div align="right"><s>— Odes de l'Harmonie <i>I</i></s></div><br>
+><div align="right"><s>— Odes de l'Harmonie <i>, I</i></s></div><br>
 >Un Aiôn multiple venu de plusieurs mondes harmonieux. La glorieuse Xipe aux mille visages entonne des chants de joie et d'unité.
 >Pour combattre la brutalité des lois de l'univers, les formes de vie intelligentes doivent oublier leur lâche égoïsme et les différences entre les êtres pour fusionner en un chant harmonieux, et pousser les forts à aider les faibles et protéger la vie avec la mort.
 >
