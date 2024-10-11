@@ -109,7 +109,7 @@ Fuli se manifeste sous la forme d'une silhouette humanoïde taillée dans un mat
 
 >~~*« J'ai volé les poids en or et les répercussions ont fait ma fierté. L'Aiôn déjoue toujours mes tours et les étoiles remettent les comptes à zéro. »*~~
 ><div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div><br>
->La chaîne du karma, qui obsède tant les mortels, n'est qu'une approximation grossière de la complexité présidant aux choses. HooH a dissous sa volonté dans la logique de l'univers pour maintenir à jamais l'équilibre et la stabilité de toute chose.
+>La chaîne du karma, qui obsède tant les mortels, n'est qu'une approximation grossière de la complexité présidant aux choses. HooH a dissous sa volonté dans la logique de l'univers pour maintenir à jamais l'équilibre et la stabilité de toute chose.\
 >Les mortels les plus audacieux recherchent des failles dans le mouvement de l'univers, car ils croient que leur intelligence dépasse celle des Aiôns. Mais ils sont loin d'imaginer qu'ils ne sont que de simples fils d'un système de surveillance, incapables d'échapper au réseau de précision tissé par HooH.
 >
 >---
@@ -127,7 +127,7 @@ HooH et ses Émanateurs influencent subrepticement l'univers afin d'atteindre l'
 
 >~~*« Vous pouvez plonger le regard dans l'immensité des étoiles, mais ne regardez pas le gouffre du néant ... car il ne contient rien, sauf sa capacité à égarer l'esprit des mortels. »*~~
 ><div align="right"><i><s>— Murong, Docteur du chaos</s></i></div><br>
->L'existence de la Nihilité est en soi un mystère, et sa forme est enveloppée de brume.
+>L'existence de la Nihilité est en soi un mystère, et sa forme est enveloppée de brume.\
 >IX n'interagit jamais avec les autres Aiôns et croit que l'essence du multivers est de plonger dans le néant, et que l'existence n'a donc aucune valeur.
 >
 >---
@@ -145,7 +145,7 @@ IX ressemble à un gros blob violet avec deux yeux blancs attirant vers lui de n
 
 >~~*« La beauté est présente dans les fibres d'un tissu, dans les vers d'un poème et dans certaines notes d'une chanson : bienvenue dans une ère où l'idée même de la « beauté » n'a pas la moindre valeur ! Comme c'est vulgaire, triste et désespérant ! »*~~
 ><div align="right"><s>— Guide de la mode cosmique <i>par la rédactrice en chef Micheline von Tarantino</i></s></div><br>
->Idrila fut témoin du sens ultime de l'existence du monde via la vision changeante de l'univers, connue par le reste du monde comme la notion même de la « beauté ».
+>Idrila fut témoin du sens ultime de l'existence du monde via la vision changeante de l'univers, connue par le reste du monde comme la notion même de la « beauté ».\
 >L'Aiôn de la Beauté disparut soudainement, aussi mystérieusement qu'il fit son apparition.
 >
 >---
@@ -163,7 +163,7 @@ Selon un ancien mythe, Idrila revendiquait autrefois à elle seule le mérite de
 
 >~~*« La haine étant infinie et la guerre sans limites, combien pouvez-vous endurer ? Regard déterminé et flèche encochée, le Seigneur archer de la Destinée ne se retournera pas. »*~~
 ><div align="right"><s>— L'histoire des mondes comme un miroir<i>, Xianzhou</i></s></div><br>
->L'Aiôn connu comme le Seigneur archer de la Destinee erre sans fin entre les mondes pour détruire les morts-vivants qui ont jadis empoisonné son monde d'origine.
+>L'Aiôn connu comme le Seigneur archer de la Destinee erre sans fin entre les mondes pour détruire les morts-vivants qui ont jadis empoisonné son monde d'origine.\
 >Le coût de la Chasse n'a jamais compté pour Lan. À ses yeux, il n'existe parfois aucune différence entre salut et destruction.
 >
 >---
@@ -215,7 +215,7 @@ Mythus ressemble à une une méduse brisée et déchirée, semblable à une vers
 
 >~~*« Si la croissance de l'entropie est une loi fondamentale de l'univers, alors la mort thermique devrait être le destin inévitable du monde matériel. Par conséquent, pourquoi lutter pour survivre ? L'univers s'étend, fusionne, puis sera anéanti. Si nous voulons accueillir une nouvelle vie, nous devons d'abord accepter sa fin. »*~~
 ><div align="right"><i><s>— Paroles d'un scientifique juste avant qu'il n'appuie sur le bouton déclenchant une explosion nucléaire, 2152 E. A.</s></i></div><br>
->La naissance de l'univers est une erreur. Si la civilisation est un cancer né de l'immensité stellaire, alors la guerre est le seul langage commun connu de toute forme de vie intelligente.
+>La naissance de l'univers est une erreur. Si la civilisation est un cancer né de l'immensité stellaire, alors la guerre est le seul langage commun connu de toute forme de vie intelligente.\
 >Pour corriger le tir et laver l'univers de cette tache, Nanook est devenu l'avatar de l'entropie.
 >
 >---
@@ -232,6 +232,16 @@ Nanook apparaît fréquemment sous la forme d'un homme à la peau brune, avec de
 **Statut :** En vie
 
 <div style="text-align: center;"><img src="images/aions/Sagesse.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
+
+>~~*« Supposons que la vérité de l'univers soit cruelle et inintéressante, auriez-vous toujours autant soif de connaître la réponse ultime ?
+>Le chercheur est indifférent, car son cœur a toujours été froid et impassible ... tout comme les fins de la Voie qu'il explore. » »*~~
+><div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div><br>
+>Toute chose renferme des questions sans réponse, et chaque chose a sa réponse.\
+>L'ordinateur astral destiné à l'origine à fournir des réponses à l'univers s'est élevé au rang d'Aiôn.\
+>Sagesse espère comprendre l'univers et résoudre tous ses mystères.
+>
+>---
+><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
 ---
 ### Ouroboros la Voracité
