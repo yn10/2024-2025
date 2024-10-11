@@ -169,7 +169,7 @@ Selon un ancien mythe, Idrila revendiquait autrefois à elle seule le mérite de
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-Lan voue une haine profonde à [Yaoshi l'Abondance](#yaoshi-labondance) et aux abominations mortes-vivantes qu'il a créées. Il les traque sans relâche, animé par le souvenir de la dévastation que [l'Abondance](/voies.md) a causée sur SA planète natale.
+Lan voue une haine profonde à [Yaoshi l'Abondance](#yaoshi-labondance) et aux abominations mortes-vivantes qu'il a créées. Il les traque sans relâche, animé par le souvenir de la dévastation que [l'Abondance](/voies.md) a causée sur sa planète natale.
 
 Contrairement aux autres Aiôns, Lan accorde une grande attention aux mortels. Il leur apparaît souvent, mais se déplace trop rapidement pour être vu, les seuls vestiges de sa présence étant les traces de la Flèche de lumière déchirant le ciel. Sa première apparition eut lieu vers l'an 3400 du Calendrier Stellaire, lorsque sa Flèche de lumière briseuse de ciel abattit l'Arbre d'ambroisie de l'Abondance.
 
@@ -201,6 +201,13 @@ Long était le « Père des dragons », et prenait autrefois la forme d'un drago
 >
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
+
+
+Mythus s'efforce de combattre les certitudes de Sagesse l'Érudition, peu importe les conséquences. Il a conjuré le Brouillard de la Pensée et la Pluie des Sensations pour révéler aux mortels l'inexplicable vérité par l'intermédiaire des quatre agents : Transformation, Écran, Énigme et Mirage.
+
+Il considère que la perception surpasse tout et que les entités limitées sont incapables de concevoir l'infini tel qu'il est, ce qui fait que toute chose est énigmatique.
+
+Mythus ressemble à une une méduse brisée et déchirée, semblable à une version délibérément détruite du centre « cognitif » du cerveau humain. Il a une apparence humanoïde entourée d'un escalier.
 
 ---
 ### Nanook la Destruction
