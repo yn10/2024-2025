@@ -8,7 +8,7 @@
         .catch(error => console.error('Error loading header:', error));
 </script>
 
-# Les non-classés
+# Les non classés
 
 |Table des matières|
 |---| 
