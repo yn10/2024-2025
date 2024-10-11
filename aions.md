@@ -133,7 +133,7 @@ HooH et ses Émanateurs influencent subrepticement l'univers afin d'atteindre l'
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-IX est un Aiôn indifférent, persuadé que l'existence n'a aucun sens et qu'il est donc inutile de faire quoi que ce soit. IL n'interagit pas avec les autres Aiôns et son existence est un mystère. Le simple fait de se trouver à proximité de la forme de IX peut susciter un état d'engourdissement et de découragement.
+IX est un Aiôn indifférent, persuadé que l'existence n'a aucun sens et qu'il est donc inutile de faire quoi que ce soit. Il n'interagit pas avec les autres Aiôns et son existence est un mystère. Le simple fait de se trouver à proximité de la forme de IX peut susciter un état d'engourdissement et de découragement.
 
 IX ressemble à un gros blob violet avec deux yeux blancs attirant vers lui de nombreux astéroïdes et planètes. Ce qui paraît être son corps est une nébuleuse tourbillonnante d'étoiles magenta et bleues enveloppées par un grand gaz violet. Il est possible que la forme de IX ressemble volontairement au chiffre 9, ce qui correspond à la signification de son nom en chiffres romains.
 
