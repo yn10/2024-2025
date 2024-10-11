@@ -10,12 +10,6 @@
 
 # Les Seigneurs
 
-Dans [_Honkai: Star Rail_](/index.md), les Aiôns sont des êtres mystérieux de dimension supérieure qui sont semblables à des dieux. Ce sont eux qui dirigent l'univers.
-
-## Description
-
-## Liste des Aiôns connus
-
 | Table des matières | 
 |---| 
 |• [Aha l'Allégresse](#aha-lallégresse)<br>• [Akivili le Pionnier](#akivili-le-pionnier)<br>• [Ena l'Ordre](#ena-lordre)<br>• [Fuli le Souvenir](#fuli-le-souvenir)<br>• [HooH l'Équilibre](#hooh-léquilibre)<br>• [IX la Nihilité](#ix-la-nihilité)<br>• [Idrila la Beauté](#idrila-la-beauté)<br>• [Lan la Chasse](#lan-la-chasse)<br>• [Long la Permanence](#long-la-permanence)<br>• [Mythus l'Enigmata](#mythus-lenigmata)<br>• [Nanook la Destruction](#nanook-la-destruction)<br>• [Sagesse l'Érudition](#sagesse-lérudition)<br>• [Ouroboros la Voracité](#ouroboros-la-voracité)<br>• [Qlipoth la Préservation](#qlipoth-la-préservation)<br>• [Tayzzyronth la Propagation](#tayzzyronth-la-propagation)<br>• [Terminus la Finalité](#terminus-la-finalité)<br>• [Xipe l'Harmonie](#xipe-lharmonie)<br>• [Yaoshi l'Abondance](#yaoshi-labondance) |
