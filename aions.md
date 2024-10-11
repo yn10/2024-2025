@@ -177,7 +177,6 @@ Dans l'Univers simulé, Lan est décrit comme un grand et vaillant prince portan
 
 ---
 ### Long la Permanence
-dedee\
 **Statut :** Décédé
 
 <div style="text-align: center;"><img src="images/aions/Long.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
