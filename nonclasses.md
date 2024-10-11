@@ -22,7 +22,7 @@
 
 Ena était l'un des plus anciens Aiôns, qualifié d'être de justice et de magnificence. Elle surveillait attentivement les actions des mortels pour assurer l'ordre de l'univers, tout en faisant preuve d'intolérance à l'égard de toute forme de chaos ou de conflit. Avant sa chute, sa Voie avait éliminé de nombreuses calamités, telles que le Désastre de l'Essaim.
 
-Sa voix est composée de syllabes qui suivent l'ascension et la chute des civilisations en accord avec la Voie de l'Aiôn. Elle fut absorbée lors du Désastre de l'Essaim par Xipe lorsque ce dernier devint un Eon, en raison du chevauchement de l'Harmonie avec le concept de l'Ordre.
+Sa voix est composée de syllabes qui suivent l'ascension et la chute des civilisations en accord avec la Voie de l'Aiôn. Elle fut absorbée lors du Désastre de l'Essaim par Xipe lorsque cette dernière devint un Aiôn, en raison du chevauchement de l'Harmonie avec le concept de l'Ordre.
 
 Ena prend la forme d'un œil géant observant et manipulant une marionnette blanche et dorée sans tronc, voilée d'un tissu en lambeaux également blanc et doré, et couronnée d'une auréole d'or. La marionnette tient et contemple un orbe renfermant le cosmos.
 
@@ -68,7 +68,7 @@ IX ressemble à un gros blob violet avec deux yeux blancs attirant vers lui de n
 
 <div style="text-align: center;"><img src="images/aions/Long.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
-Il y a un nombre incalculable d'ères de l'Ambre, Long parcourut l'univers avec pour principal objectif de trouver le sens de la vie elle-même. Au terme de sa vie, il trouva sa réponse, qui devint connue sous le nom de révélation de la Permanence. Nul ne connaît précisément les véritables idéaux de l'Eon, mais le scribe du Candélagraphe de la Guilde de l'intelligentsia, Oppenheimer, est arrivé à certaines conclusions.
+Il y a un nombre incalculable d'ères de l'Ambre, Long parcourut l'univers avec pour principal objectif de trouver le sens de la vie elle-même. Au terme de sa vie, il trouva sa réponse, qui devint connue sous le nom de révélation de la Permanence. Nul ne connaît précisément les véritables idéaux de l'Aiôn, mais le scribe du Candélagraphe de la Guilde de l'intelligentsia, Oppenheimer, est arrivé à certaines conclusions.
 
 Il est possible que Long ait défini le sens de l'existence comme étant « la nature intemporelle de la grandeur de chacun ». Sa décision de se réincarner, abhorrant l'immortalité biologique, a également conduit le scribe à se demander si la révélation postulait la « continuité de la lignée familiale ». Par ailleurs, la décision des Grands anciens des Vidyadhariens de se joindre à l'Alliance Xianzhou témoigne de leur inclinaison en faveur d'une « noble ambition qui garantit la sécurité de l'univers ».
 
