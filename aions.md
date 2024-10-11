@@ -281,6 +281,15 @@ Il dévore les mondes insatiablement. Les légendes racontent qu'il aurait égal
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
+Surnommé entre autres le Seigneur de l'Ambre, Qlipoth s'efforce d'isoler les contacts entre les planètes. Les structures de taille céleste qu'il a construit - la Barrière cristalline subspatiale - séparent et protègent les mondes habités pour qu'ils ne soient pas dévorés par leur [ennemi](#ouroboros-la-voracité). Les neuf vaisseaux Xianzhou initiaux ont pu observer la barrière qui sépare le monde du néant infini : le mur céleste d'Échidna.
+
+Bien qu'étant la principale faction suivant l'idéologie du Seigneur de l'Ambre, la Corporation pour la Paix Interastrale va à l'encontre des désirs de l'Aiôn, en facilitant le commerce civilisé et les contacts entre les étoiles. En dépit de leurs actions, aucune remontrance ou censure n'a été formulée.
+
+Il existe une théorie appelée « théorie de la catastrophe » qui prétend que lorsque Qlipoth donne un coup de marteau et qu'une nouvelle ère de l'Ambre commence, une catastrophe est imminente.
+
+Qlipoth est un golem constitué d'un type de roche inconnu et d'ambre, dépourvu de jambes et couvert de fissures. Ses deux mains ont quatre doigts et ses bras sont reliés à son torse par deux soleils jaunes brillants.
+Son torse est formé d'un plus grand astre de couleur orange beaucoup plus foncé recouvert de roches. Sa tête est elle aussi composée d'un autre astre entouré de deux anneaux internes et externes de roches brisées.
+
 ---
 ### Tayzzyronth la Propagation
 **Statut :** Inactif ; scellé dans une prison d'ambre
