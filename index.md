@@ -25,7 +25,7 @@ Dans _Honkai: Star Rail_, les Aiôns sont des êtres mystérieux de dimension su
 
 ## Profil
 
-La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn possède alors un pouvoir. Les Aiôns ont également la possibilité de donner accès à leur pouvoir, faisant d'un mortel un [Émanateur](/emanateurs.md) de leur Voie. Les Aiôns ne peuvent agir que selon leur « Primum Mobile », ce qui les rend incapables de faire quoi que ce soit de contraire à leur Voie.
+La naissance d'un Aiôn fait naître une Voie sur laquelle l'Aiôn possède alors un pouvoir. Les Aiôns ont également la possibilité de donner accès à leur pouvoir, faisant d'un mortel un Émanateur de leur Voie. Les Aiôns ne peuvent agir que selon leur « Primum Mobile », ce qui les rend incapables de faire quoi que ce soit de contraire à leur Voie.
 
 ### Mortalité
 
@@ -40,3 +40,9 @@ Toutefois, il existe des exemples de Voies « similaires » coexistant pendant d
 Les formes des Aiôns que les mortels peuvent voir à l'œil nu sont supposées être des projections depuis une dimension supérieure.
 
 ### Catégories
+
+La Commission de divination de Xianzhou classe les Aiôns en trois catégories.
+
+1. Les « [Seigneurs](/seigneurs.md) » qui déterminent la naissance et la mort des mortels et sont étroitement liés à la montée et à la chute des civilisations.
+2. Les « [Sacrosaints](/sacrosaints.md) » qui sont difficiles à classer comme bons ou mauvais, et dont les objectifs ultimes sont souvent impossibles à cerner. 
+3. Les « [Instigateurs de calamités](/instigateurs.md) » qui sont les principaux responsables de tous les désastres.
