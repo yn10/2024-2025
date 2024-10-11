@@ -181,7 +181,7 @@ Dans l'Univers simulé, Lan est décrit comme un grand et vaillant prince portan
 
 <div style="text-align: center;"><img src="images/aions/Long.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
-Il y a un nombre incalculable d'ères d'ambre, Long parcourut l'univers avec pour principal objectif de trouver le sens de la vie elle-même. Au terme de sa vie, il trouva sa réponse, qui devint connue sous le nom de révélation de la Permanence. Nul ne connaît précisément les véritables idéaux de l'Eon, mais le scribe du Candélagraphe de la Guilde de l'intelligentsia, Oppenheimer, est arrivé à certaines conclusions.
+Il y a un nombre incalculable d'ères de l'Ambre, Long parcourut l'univers avec pour principal objectif de trouver le sens de la vie elle-même. Au terme de sa vie, il trouva sa réponse, qui devint connue sous le nom de révélation de la Permanence. Nul ne connaît précisément les véritables idéaux de l'Eon, mais le scribe du Candélagraphe de la Guilde de l'intelligentsia, Oppenheimer, est arrivé à certaines conclusions.
 
 Il est possible que Long ait défini le sens de l'existence comme étant « la nature intemporelle de la grandeur de chacun ». Sa décision de se réincarner, abhorrant l'immortalité biologique, a également conduit le scribe à se demander si la révélation postulait la « continuité de la lignée familiale ». Par ailleurs, la décision des Grands anciens des Vidyadhariens de se joindre à l'Alliance Xianzhou témoigne de leur inclinaison en faveur d'une « noble ambition qui garantit la sécurité de l'univers ».
 
