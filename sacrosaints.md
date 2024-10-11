@@ -28,7 +28,7 @@
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-Aha est l'un des quelques Aiôns les plus proches des mortels, incitant ses fidèles à se réjouir des plaisirs de la vie. Bien qu'il ne possède pas de pouvoirs dévastateurs comme Lan ou Qlipoth, Aha aime semer le chaos de façon imprévisible, en effectuant de minusucles changements et en exerçant une légère influence sur les créatures vivantes.
+Aha est l'un des quelques Aiôns les plus proches des mortels, incitant ses fidèles à se réjouir des plaisirs de la vie. Bien qu'il ne possède pas de pouvoirs dévastateurs comme [Lan](/seigneurs.md#lan-la-chasse) ou [Qlipoth](/seigneurs.md#qlipoth-la-preservation), Aha aime semer le chaos de façon imprévisible, en effectuant de minusucles changements et en exerçant une légère influence sur les créatures vivantes.
 
 Aha prend la forme d'une silhouette humaine obscure et sans tête tenant des accessoires de cirque.
 
