@@ -29,7 +29,7 @@ La naissance d'un Aiôn fait naître une Voie sur laquelle l'Aiôn possède alor
 
 ### Mortalité
 
-Il existerait trois façons pour un Aiôn de mourir, dont seulement deux sont connues par le joueur.
+Selon Kafka, une Chasseuse de Stellaron, il existe trois façons pour un Aiôn de mourir. Cependant, elle s'échappera avant de révéler la troisième méthode.
 
 1. Par la collision de Voies issues de concepts qui se chevauchent. C'est ainsi qu'Ena l'Ordre a été absorbée par Xipe l'Harmonie dans un processus comparable à la « sélection naturelle ».
 Toutefois, il existe des exemples de Voies « similaires » coexistant pendant des périodes de temps différentes, comme la Préservation avec le Souvenir, et l'Abondance avec la Propagation.
