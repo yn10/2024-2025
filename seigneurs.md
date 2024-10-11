@@ -27,7 +27,7 @@
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-Lan voue une haine profonde à [Yaoshi l'Abondance](#yaoshi-labondance) et aux abominations mortes-vivantes qu'il a créées. Il les traque sans relâche, animé par le souvenir de la dévastation que [l'Abondance](/voies.md) a causée sur son monde d'origine.
+Lan voue une haine profonde à [Yaoshi l'Abondance](/instigateurs.md#yaoshi-labondance) et aux abominations mortes-vivantes qu'il a créées. Il les traque sans relâche, animé par le souvenir de la dévastation que [l'Abondance](/voies.md) a causée sur son monde d'origine.
 
 Contrairement aux autres Aiôns, Lan accorde une grande attention aux mortels. Il leur apparaît souvent, mais se déplace trop rapidement pour être vu, les seuls vestiges de sa présence étant les traces de la Flèche de lumière déchirant le ciel. Sa première apparition eut lieu vers l'an 3400 du Calendrier Stellaire, lorsque sa Flèche de lumière briseuse de ciel abattit l'Arbre d'ambroisie de l'Abondance.
 
@@ -49,7 +49,7 @@ Dans l'Univers simulé, Lan est décrit comme un grand et vaillant prince portan
 
 Surnommé le Seigneur de l'Ambre, Qlipoth est l'un des plus anciens Aiôn connus. Il est réputé pour son indifférence, et ne partage généralement son pouvoir qu'avec des fanatiques, comme Corporation pour la Paix Interastrale.
 
-Qlipoth s'efforce d'isoler les contacts entre les planètes. Les structures aux dimensions astronomiques qu'il a construit, la Barrière cristalline subspatiale, séparent et protègent les mondes habités pour qu'ils ne soient pas dévorés par leur [ennemi](#ouroboros-la-voracité). Les neuf vaisseaux Xianzhou initiaux ont pu observer la barrière qui sépare le monde du néant infini : le mur céleste d'Échidna.
+Qlipoth s'efforce d'isoler les contacts entre les planètes. Les structures aux dimensions astronomiques qu'il a construit, la Barrière cristalline subspatiale, séparent et protègent les mondes habités pour qu'ils ne soient pas dévorés par leur [ennemi](/nonclasses.md#ouroboros-la-voracité). Les neuf vaisseaux Xianzhou initiaux ont pu observer la barrière qui sépare le monde du néant infini : le mur céleste d'Échidna.
 
 Bien qu'étant la principale faction suivant l'idéologie du Seigneur de l'Ambre, la CPI va à l'encontre des désirs de l'Aiôn, en facilitant le commerce civilisé et les contacts entre les étoiles. En dépit de leurs actions, aucune remontrance ou censure n'a été formulée.
 
