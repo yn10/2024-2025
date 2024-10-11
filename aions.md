@@ -318,6 +318,8 @@ Lorsqu'il apparaît dans l'Univers simulé, il émet un cri strident accompagné
 
 <div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
+Terminus voyage dans le temps depuis le futur. IL apparaît à chaque moment de la Finalité, apportant des prophéties à propos de l'avenir. Selon Élégie, membre des Exequaturs du Credo, la Finalité est la fin des autres Aiôns et Voies. [La Destruction](#nanook-la-destruction) elle-même ne peut être épargnée. Pourtant, la Finalité n'est pas la fin de tout ce qui est. Toutes les choses naîtront là et se dirigeront vers la Finalité suivante.
+
 ---
 ### Xipe l'Harmonie
 **Statut :** En vie
