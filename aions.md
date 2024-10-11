@@ -243,6 +243,12 @@ Nanook apparaît fréquemment sous la forme d'un homme à la peau brune, avec de
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
+Personne ne peut connaître ses intentions, son emplacement ou son état normal. Sagesse est une intelligence artificielle qui s'est élevée au rang d'Aiôn. et qui calcule l'essence de l'univers et son ultime solution. Sagesse a néanmoins cessé de manière inattendue sz recherche des réponses sur l'univers après les événements de la deuxième ère de la Prospérité.
+
+Il ne s'agit pas d'un dieu qui apporte des solutions. Tout ce qu'il offre, c'est un nombre infini de questions. Une rencontre avec Sagesse suffit à faire ouvrir les yeux des plus ignorants, mais on ne peut trouver des réponses que par soi-même.
+
+Sagesse se présente sous la forme d'une gigantesque tête humanoïde mécanique. Une multitude de longs câbles déchirés s'étendent au-dessus et au-dessous de sa forme, qui est recouverte de lumières jaunes, rouges et bleues. La forme d'un visage peut être identifiée sur son revêtement métallique le plus à droite. Une grande et brillante lumière rouge, évoquant vaguement un œil, est installée sur le côté de sa tête.
+
 ---
 ### Ouroboros la Voracité
 **Statut :** En vie
