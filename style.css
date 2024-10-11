@@ -26,6 +26,13 @@ img[src$=".webp"] {
   background-color: #1a1a21;
 }
 
-table {
+/* Add this rule to set the background color of table cells */
+td {
   background-color: #1a1a21;
+  color: #E6E6E6; /* Optional: to ensure text color is readable */
+}
+
+th {
+  background-color: #2B272B; /* Optional: different color for table headers */
+  color: #C09C7B; /* Optional: set a contrasting color for headers */
 }
