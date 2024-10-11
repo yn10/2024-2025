@@ -221,11 +221,11 @@ Mythus ressemble à une une méduse brisée et déchirée, semblable à une vers
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-Après avoir été témoin de la destruction d'Adlivun par l'Essaim et l'Empire des machines à sa naissance, Nanook estime que la création de l'univers est une erreur et cherche à tout détruire. Après son ascension en tant qu'Eonien, Nanook aurait prétendument incendié son monde d'origine[4].
+Après avoir été témoin de la destruction d'Adlivun par l'Essaim et l'Empire des machines à sa naissance, Nanook estime que la création de l'univers est une erreur et cherche à tout détruire. Après son ascension en tant qu'Aiôn, Nanook aurait prétendument incendié son monde d'origine.
 
-Bien qu'il soit le dernier Eon à s'être élevé, Nanook et ses serviteurs peuvent déjà être considérées comme la plus grande menace de toute la galaxie[5].
+Bien qu'il soit le dernier Aiôn à s'être élevé, Nanook et ses serviteurs peuvent déjà être considérées comme la plus grande menace de toute la galaxie[5].
 
-Nanook apparaît fréquemment sous la forme d'un homme à la peau brune, avec de longs cheveux blancs et deux tresses, ainsi que des yeux dorés. Une immense cicatrice, ainsi que de multiples autres plus petites, sont visibles sur sa poitrine, d'où s'échappe de l'ichor doré. Un quart de ses bras flottent et la moitié de ses membres inférieurs sont couverts de flammes dorées et de fumée noire, illustrant son désir de destruction.
+Nanook apparaît fréquemment sous la forme d'un homme à la peau brune, avec de longs cheveux blancs et deux tresses, ainsi que des yeux dorés. Une immense cicatrice, ainsi que de multiples autres plus petites, sont visibles sur sa poitrine, d'où s'échappe de l'ichor doré. Un quart de ses bras flotte et la moitié de ses membres inférieurs sont couverts de flammes dorées et de fumée noire, illustrant son désir de destruction.
 
 ---
 ### Sagesse l'Érudition
