@@ -112,7 +112,7 @@ Terminus voyage dans le temps depuis le futur. IL apparaît à chaque moment de 
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-Xipe est l'amalgame de milliers d'entités en provenance de multiples mondes célestes harmonieux qui prêchent la joie de l'harmonie et de l'unité humaine. Elle a absorbé [Ena l'Ordre](/nonclasses.md/ena-lordre) lorsqu'elle s'est élevée au rang d'Aiôn, suite à la collision de leurs Voies vers la fin du Désastre de l'Essaim.
+Xipe est l'amalgame de milliers d'entités en provenance de multiples mondes célestes harmonieux qui prêchent la joie de l'harmonie et de l'unité humaine. Vers la fin du Désastre de l'Essaim, elle a absorbé [Ena l'Ordre](/nonclasses.md/ena-lordre) lorsqu'elle s'est élevée au rang d'Aiôn, suite à la collision de leurs Voies.
 
 Xipe se présente comme une humanoïde sereine à la peau pervenche possédant trois visages, dont un devant et deux de chaque côté de la tête. Les visages sont encadrés par de longues franges blanches et sont tous ornés d'un diadème. Xipe possède une longue chevelure d'un dégradé blanc-violet foncé scintillant. Un mélange de couleurs vives flamboie derrière sa tête, à la manière d'une auréole.
 
