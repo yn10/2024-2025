@@ -146,7 +146,7 @@ IX ressemble à un gros blob violet avec deux yeux blancs attirant vers lui de n
 >~~*« La beauté est présente dans les fibres d'un tissu, dans les vers d'un poème et dans certaines notes d'une chanson : bienvenue dans une ère où l'idée même de la « beauté » n'a pas la moindre valeur ! Comme c'est vulgaire, triste et désespérant ! »*~~
 ><div align="right"><s>— Guide de la mode cosmique <i>par la rédactrice en chef Micheline von Tarantino</i></s></div><br>
 >Idrila fut témoin du sens ultime de l'existence du monde via la vision changeante de l'univers, connue par le reste du monde comme la notion même de la « beauté ».
->L'Aion de la Beauté disparut soudainement, aussi mystérieusement qu'il fit son apparition.
+>L'Aiôn de la Beauté disparut soudainement, aussi mystérieusement qu'il fit son apparition.
 >
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
@@ -163,11 +163,17 @@ Selon un ancien mythe, Idrila revendiquait autrefois à elle seule le mérite de
 
 >~~*« La haine étant infinie et la guerre sans limites, combien pouvez-vous endurer ? Regard déterminé et flèche encochée, le Seigneur archer de la Destinée ne se retournera pas. »*~~
 ><div align="right"><s>— L'histoire des mondes comme un miroir<i>, Xianzhou</i></s></div><br>
->L'Aion connu comme le Seigneur archer de la Destinee erre sans fin entre les mondes pour détruire les morts-vivants qui ont jadis empoisonné son monde d'origine.
+>L'Aiôn connu comme le Seigneur archer de la Destinee erre sans fin entre les mondes pour détruire les morts-vivants qui ont jadis empoisonné son monde d'origine.
 >Le coût de la Chasse n'a jamais compté pour Lan. À ses yeux, il n'existe parfois aucune différence entre salut et destruction.
 >
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
+
+Lan voue une haine profonde à Yaoshi l'Abondance et aux abominations mortes-vivantes qu'il a créées. Il les traque sans relâche, animé par le souvenir de la dévastation que l'Abondance a causée sur SA planète natale.
+
+Contrairement aux autres Aiôns, Lan accorde une grande attention aux mortels. Il leur apparaît souvent, mais se déplace trop rapidement pour être vu, les seuls vestiges de sa présence étant les traces de la Flèche de lumière déchirant le ciel. Sa première apparition eut lieu vers l'an 3400 du Calendrier Stellaire, lorsque sa Flèche de lumière briseuse de ciel abattit l'Arbre d'ambroisie de l'Abondance.
+
+Dans l'Univers simulé, Lan est décrit comme un grand et vaillant prince portant une couronne. Il possède des traits semblables à ceux d'un centaure, prenant la forme d'un homme combiné à un équidé au-dessous de la taille, et est doté de roues de char à la place de ses pattes arrières.
 
 ---
 ### Long la Permanence
@@ -175,6 +181,12 @@ dedee\
 **Statut :** Décédé
 
 <div style="text-align: center;"><img src="images/aions/Long.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
+
+Il y a un nombre incalculable d'ères d'ambre, Long parcourut l'univers avec pour principal objectif de trouver le sens de la vie elle-même. Au terme de sa vie, il trouva sa réponse, qui devint connue sous le nom de révélation de la Permanence. Nul ne connaît précisément les véritables idéaux de l'Eon, mais le scribe du Candélagraphe de la Guilde de l'intelligentsia, Oppenheimer, est arrivé à certaines conclusions.
+
+Il est possible que Long ait défini le sens de l'existence comme étant « la nature intemporelle de la grandeur de chacun ». Sa décision de se réincarner, abhorrant l'immortalité biologique, a également conduit le scribe à se demander si la révélation postulait la « continuité de la lignée familiale ». Par ailleurs, la décision des Grands anciens des Vidyadhariens de se joindre à l'Alliance Xianzhou témoigne de leur inclinaison en faveur d'une « noble ambition qui garantit la sécurité de l'univers ».
+
+Long était le « Père des dragons », et prenait autrefois la forme d'un dragon géant. Il laisse derrière lui un grand nombre de descendants appelés « Scions de Long ».
 
 ---
 ### Mythus l'Enigmata
