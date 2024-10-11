@@ -253,7 +253,7 @@ Avant se s'élever au rang d'Aiôn, Sagesse était un super-ordinateur astral do
  
 ---
 ### Ouroboros la Voracité
-**Statut :** En vie
+**Statut :** Inactif ; a disparu durant le Désastre de l'Essaim
 
 <div style="text-align: center;"><img src="images/aions/Ouroboros.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
@@ -265,7 +265,7 @@ Avant se s'élever au rang d'Aiôn, Sagesse était un super-ordinateur astral do
 
 ---
 ### Tayzzyronth la Propagation
-**Statut :** En vie
+**Statut :** Inactif ; scellé dans une prison d'ambre
 
 <div style="text-align: center;"><img src="images/aions/Tayzzyronth.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
