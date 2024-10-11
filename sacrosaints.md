@@ -8,7 +8,7 @@
         .catch(error => console.error('Error loading header:', error));
 </script>
 
-# Les Seigneurs
+# Les Sacrosaints
 
 | Table des matières | 
 |---| 
