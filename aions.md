@@ -249,6 +249,8 @@ Il ne s'agit pas d'un dieu qui apporte des solutions. Tout ce qu'il offre, c'est
 
 Sagesse se présente sous la forme d'une gigantesque tête humanoïde mécanique. Une multitude de longs câbles déchirés s'étendent au-dessus et au-dessous de sa forme, qui est recouverte de lumières jaunes, rouges et bleues. La forme d'un visage peut être identifiée sur son revêtement métallique le plus à droite. Une grande et brillante lumière rouge, évoquant vaguement un œil, est installée sur le côté de sa tête.
 
+Avant se s'élever au rang d'Aiôn, Sagesse était un super-ordinateur astral dont on disait qu'il avait été créé par Zandar One Kuwabara, le fondateur et premier membre de la Société des génies.
+ 
 ---
 ### Ouroboros la Voracité
 **Statut :** En vie
