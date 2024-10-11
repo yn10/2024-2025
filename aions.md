@@ -169,7 +169,7 @@ Selon un ancien mythe, Idrila revendiquait autrefois à elle seule le mérite de
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-Lan voue une haine profonde à Yaoshi l'Abondance et aux abominations mortes-vivantes qu'il a créées. Il les traque sans relâche, animé par le souvenir de la dévastation que l'Abondance a causée sur SA planète natale.
+Lan voue une haine profonde à [Yaoshi l'Abondance](#yaoshi-labondance) et aux abominations mortes-vivantes qu'il a créées. Il les traque sans relâche, animé par le souvenir de la dévastation que [l'Abondance](/voies.md) a causée sur SA planète natale.
 
 Contrairement aux autres Aiôns, Lan accorde une grande attention aux mortels. Il leur apparaît souvent, mais se déplace trop rapidement pour être vu, les seuls vestiges de sa présence étant les traces de la Flèche de lumière déchirant le ciel. Sa première apparition eut lieu vers l'an 3400 du Calendrier Stellaire, lorsque sa Flèche de lumière briseuse de ciel abattit l'Arbre d'ambroisie de l'Abondance.
 
@@ -197,7 +197,7 @@ Long était le « Père des dragons », et prenait autrefois la forme d'un drago
 ><div align="right"><i><s>— Sharon Leighton, poétesse lauréate galactique (autoproclamée)</s></i></div><br>
 >C'est un mensonge de dire que toute chose peut-être vécue et reconnue. Les vivants cherchent à écrire des prophéties sur l'inconnu en se reposant sur leur sens limité de l'ordre de l'univers. Cependant, ils sont loin d'imaginer que celui-ci est infini et que la vérité n'est qu'une illusion trompeuse.
 >
->Dans le but d'empêcher la certitude que l'Érudition apportait en détruisant les possibilités défendues par Mythus, ce dernier a invoqué le Brouillard de la pensée et la Pluie de sensations afin de révéler aux mortels l'inexplicable vérité à l'aide de quatre agents : Transformation, Écran, Énigme et Mirage.
+>Dans le but d'empêcher la certitude que [l'Érudition](/voies.md) apportait en détruisant les possibilités défendues par Mythus, ce dernier a invoqué le Brouillard de la pensée et la Pluie de sensations afin de révéler aux mortels l'inexplicable vérité à l'aide de quatre agents : Transformation, Écran, Énigme et Mirage.
 >
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
