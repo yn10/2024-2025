@@ -12,7 +12,7 @@
 
 | Table des matières | 
 |---| 
-|• [Nanook la Destruction](#nanook-la-destruction)<br>• [Tayzzyronth la Propagation](#tayzzyronth-la-propagation)<br>• [Yaoshi l'Abondance](#yaoshi-labondance) |
+|1. [Nanook la Destruction](#nanook-la-destruction)<br>2. [Tayzzyronth la Propagation](#tayzzyronth-la-propagation)<br>3. [Yaoshi l'Abondance](#yaoshi-labondance) |
 
 ### Nanook la Destruction
 **Statut :** En vie
