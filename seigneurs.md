@@ -10,9 +10,9 @@
 
 # Les Seigneurs
 
-| Table des matières | 
+|Table des matières| 
 |---| 
-|• [Ena l'Ordre](#ena-lordre)<br>• [HooH l'Équilibre](#hooh-léquilibre)<br>• [IX la Nihilité](#ix-la-nihilité)<br>• [Lan la Chasse](#lan-la-chasse)<br>• [Long la Permanence](#long-la-permanence)<br>• [Mythus l'Enigmata](#mythus-lenigmata)<br>• [Ouroboros la Voracité](#ouroboros-la-voracité)<br>• [Qlipoth la Préservation](#qlipoth-la-préservation)<br>• [Terminus la Finalité](#terminus-la-finalité)<br>• [Xipe l'Harmonie](#xipe-lharmonie) |
+|• [Lan la Chasse](#lan-la-chasse)<br>• [Qlipoth la Préservation](#qlipoth-la-préservation)|
 
 ---
 ### Ena l'Ordre
