@@ -36,7 +36,7 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 ### Aha l'Allégresse
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Aha.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Aha.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
 >~~*« L'Érudition n'est qu'un tas de ferraille, la Préservation stupide, la Chasse n'a aucun sens de l'humour et la Destruction est dingue. C'est la même chose pour tous les Aiôns. Quel dommage pour Aha ! »*~~
 ><div align="right"><i><s>— Un Fou masqué expert autoproclamé en astronomie</s></i></div><br>
@@ -55,7 +55,7 @@ Aha prend la forme d'une silhouette humaine obscure et sans tête tenant des acc
 ### Akivili le Pionnier
 Statut: Disparu et présumé décédé
 
-<div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
 >~~*« D'innombrables étoiles s'élancent à travers le ciel ... Choisis la bonne et elle portera ton vœu au loin, vers des milliers de mondes. »*~~
 ><div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div><br>
@@ -75,7 +75,7 @@ Akivili a un jour mystérieusement disparu, laissant un groupe de Sans Noms loya
 ### Ena l'Ordre
 Statut: Absorbé par [Xipe](#xipe-lharmonie)
 
-<div style="text-align: center;"><img src="images/aions/Ena.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Ena.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
 Ena était l'un des plus anciens Aiôns, qualifié d'être de justice et de magnificence. Elle surveillait attentivement les actions des mortels pour assurer l'ordre de l'univers, tout en faisant preuve d'intolérance à l'égard de toute forme de chaos ou de conflit. Avant sa chute, sa Voie avait éliminé de nombreuses calamités, telles que le Désastre de l'Essaim.
 
@@ -87,7 +87,7 @@ Ena prend la forme d'un œil géant observant et manipulant une marionnette blan
 ### Fuli le Souvenir
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Fuli.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Fuli.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
 >~~*« Le temps : le voleur le plus assidu au monde. Il nous vole sans cesse notre présent et l'enferme dans un coin de la Mémoire. Certains sont obsédés par la récupération de ce qu'ils ont perdu ... D'autres ne s'en soucient guère. »*~~
 ><div align="right"><s>— La vie est trop courte <i>par un anonyme</i></s></div><br>
@@ -107,80 +107,80 @@ Fuli se manifeste sous la forme d'une silhouette humanoïde taillée dans un mat
 ### HooH l'Équilibre
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/HooH.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/HooH.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### IX la Nihilité
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/IX.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/IX.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### Idrila la Beauté
 Statut: Disparu et présumé décédé
 
-<div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### Lan la Chasse
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Lan.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Lan.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### Long la Permanence
 dedee\
 Statut: Décédé
 
-<div style="text-align: center;"><img src="images/aions/Long.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Long.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### Mythus l'Enigmata
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Mythus.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Mythus.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### Nanook la Destruction
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Nanook.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Nanook.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### Sagesse l'Érudition
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Sagesse.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Sagesse.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### Ouroboros la Voracité
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Ouroboros.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Ouroboros.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### Qlipoth la Préservation
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Qlipoth.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Qlipoth.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### Tayzzyronth la Propagation
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Tayzzyronth.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Tayzzyronth.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### Terminus la Finalité
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/inconnu.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 ---
 ### Xipe l'Harmonie
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Xipe.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Xipe.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
 
 >~~*« Le monde est en harmonie et les étoiles brillent de mille feux. Louée soit son Éminence ! Tout est connecté et le vent de la bénédiction souffle à travers les terres ! »*~~
 ><div align="right"><s>— Odes de l'Harmonie <i>, I</i></s></div><br>
@@ -194,4 +194,4 @@ Statut: En vie
 ### Yaoshi l'Abondance
 Statut: En vie
 
-<div style="text-align: center;"><img src="images/aions/Yaoshi.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div>
+<div style="text-align: center;"><img src="images/aions/Yaoshi.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div<br>
