@@ -68,3 +68,8 @@ Lorsqu'il apparaît dans l'Univers simulé, il émet un cri strident accompagné
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
+La nature bienveillante de Yaoshi l'a amené à accorder sa bénédiction à tous ceux en quête d'immortalité. Cependant, les conséquences de ces bénédictions se soldent souvent par un destin pire que la mort.
+
+Dans l'Univers simulé, Yaoshi est décrit comme un être doté de six bras, d'une queue crochue semblable à celle d'un scorpion, et de cheveux semblables à une plume de pie. Il possède des bois ressemblant à des branches jaillissant de sa tête ainsi que des yeux rouges fendus, ainsi que des sclères noires sur certaines parties de son corps.
+
+Dans la culture foxienne, il est dit que Yaoshi porte un bâton.
