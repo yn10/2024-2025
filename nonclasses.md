@@ -72,7 +72,7 @@ Il y a un nombre incalculable d'ères de l'Ambre, Long parcourut l'univers avec 
 
 Il est possible que Long ait défini le sens de l'existence comme étant « la nature intemporelle de la grandeur de chacun ». Sa décision de se réincarner, abhorrant l'immortalité biologique, a également conduit le scribe à se demander si la révélation postulait la « continuité de la lignée familiale ». Par ailleurs, la décision des Grands anciens des Vidyadhariens de se joindre à l'Alliance Xianzhou témoigne de leur inclinaison en faveur d'une « noble ambition qui garantit la sécurité de l'univers ».
 
-Long était le « Père des dragons », et prenait autrefois la forme d'un dragon géant. Il laisse derrière lui un grand nombre de descendants appelés « Scions de Long ».
+Long était le « Père des dragons », et prenait autrefois la forme d'un dragon géant. Il laisse derrière lui un grand nombre de descendants appelés « scions de Long ».
 
 ---
 ### Ouroboros la Voracité
