@@ -12,7 +12,7 @@
 
 |Table des matières| 
 |---| 
-|• [Lan la Chasse](#lan-la-chasse)<br>• [Qlipoth la Préservation](#qlipoth-la-préservation)|
+|1. [Lan la Chasse](#lan-la-chasse)<br>2. [Qlipoth la Préservation](#qlipoth-la-préservation)|
 
 ### Lan la Chasse
 **Statut :** En vie
