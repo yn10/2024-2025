@@ -265,7 +265,7 @@ Avant se s'élever au rang d'Aiôn, Sagesse était un super-ordinateur astral do
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-Il dévore les mondes insatiablement. Les légendes racontent qu'il aurait également la forme d'une sorte de créatures ancestrales du nom de Léviathans.
+Il dévore les mondes insatiablement. Les légendes racontent qu'il aurait également la forme d'une sorte de créature ancestrale appelée Léviathan.
 
 ---
 ### Qlipoth la Préservation
