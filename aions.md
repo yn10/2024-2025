@@ -105,6 +105,8 @@ Fuli se manifeste sous la forme d'une silhouette humanoïde taillée dans un mat
 ### HooH l'Équilibre
 **Statut :** En vie
 
+<div style="text-align: center;"><img src="images/aions/HooH.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
+
 >~~*« J'ai volé les poids en or et les répercussions ont fait ma fierté. L'Aiôn déjoue toujours mes tours et les étoiles remettent les comptes à zéro. »*~~
 ><div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div><br>
 >La chaîne du karma, qui obsède tant les mortels, n'est qu'une approximation grossière de la complexité présidant aux choses. HooH a dissous sa volonté dans la logique de l'univers pour maintenir à jamais l'équilibre et la stabilité de toute chose.
@@ -116,8 +118,6 @@ Fuli se manifeste sous la forme d'une silhouette humanoïde taillée dans un mat
 Sa forme n'est connue de personne.
 
 HooH et ses Émanateurs influencent subrepticement l'univers afin d'atteindre l'équilibre parfait.
-
-<div style="text-align: center;"><img src="images/aions/HooH.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
 ---
 ### IX la Nihilité
