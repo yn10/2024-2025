@@ -105,6 +105,18 @@ Fuli se manifeste sous la forme d'une silhouette humanoïde taillée dans un mat
 ### HooH l'Équilibre
 **Statut :** En vie
 
+>~~*« J'ai volé les poids en or et les répercussions ont fait ma fierté. L'Aiôn déjoue toujours mes tours et les étoiles remettent les comptes à zéro. »*~~
+><div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div><br>
+>La chaîne du karma, qui obsède tant les mortels, n'est qu'une approximation grossière de la complexité présidant aux choses. HooH a dissous sa volonté dans la logique de l'univers pour maintenir à jamais l'équilibre et la stabilité de toute chose.
+>Les mortels les plus audacieux recherchent des failles dans le mouvement de l'univers, car ils croient que leur intelligence dépasse celle des Aiôns. Mais ils sont loin d'imaginer qu'ils ne sont que de simples fils d'un système de surveillance, incapables d'échapper au réseau de précision tissé par HooH.
+>
+>---
+><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
+
+Sa forme n'est connue de personne.
+
+HooH et ses Émanateurs influencent subrepticement l'univers afin d'atteindre l'équilibre parfait.
+
 <div style="text-align: center;"><img src="images/aions/HooH.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
 ---
@@ -112,6 +124,18 @@ Fuli se manifeste sous la forme d'une silhouette humanoïde taillée dans un mat
 **Statut :** En vie
 
 <div style="text-align: center;"><img src="images/aions/IX.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
+
+>~~*« Vous pouvez plonger le regard dans l'immensité des étoiles, mais ne regardez pas le gouffre du néant ... car il ne contient rien, sauf sa capacité à égarer l'esprit des mortels. »*~~
+><div align="right"><i><s>— Murong, Docteur du chaos</s></i></div><br>
+>L'existence de la Nihilité est en soi un mystère, et sa forme est enveloppée de brume.
+>IX n'interagit jamais avec les autres Aiôns et croit que l'essence du multivers est de plonger dans le néant, et que l'existence n'a donc aucune valeur.
+>
+>---
+><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
+
+IX est un Aiôn indifférent, persuadé que l'existence n'a aucun sens et qu'il est donc inutile de faire quoi que ce soit. IL n'interagit pas avec les autres Aiôns et son existence est un mystère. Le simple fait de se trouver à proximité de la manifestation de IX peut susciter un état d'engourdissement et de découragement.
+
+IX ressemble à un gros blob violet avec deux yeux blancs attirant vers lui de nombreux astéroïdes et planètes. Ce qui paraît être son corps est une nébuleuse tourbillonnante d'étoiles magenta et bleues enveloppées par un grand gaz violet. Il est possible que la forme de IX ressemble volontairement au chiffre 9, ce qui correspond à la signification de son nom en chiffres romains.
 
 ---
 ### Idrila la Beauté
