@@ -169,7 +169,7 @@ Selon un ancien mythe, Idrila revendiquait autrefois à elle seule le mérite de
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-Lan voue une haine profonde à [Yaoshi l'Abondance](#yaoshi-labondance) et aux abominations mortes-vivantes qu'il a créées. Il les traque sans relâche, animé par le souvenir de la dévastation que [l'Abondance](/voies.md) a causée sur sa planète natale.
+Lan voue une haine profonde à [Yaoshi l'Abondance](#yaoshi-labondance) et aux abominations mortes-vivantes qu'il a créées. Il les traque sans relâche, animé par le souvenir de la dévastation que [l'Abondance](/voies.md) a causée sur son monde d'origine.
 
 Contrairement aux autres Aiôns, Lan accorde une grande attention aux mortels. Il leur apparaît souvent, mais se déplace trop rapidement pour être vu, les seuls vestiges de sa présence étant les traces de la Flèche de lumière déchirant le ciel. Sa première apparition eut lieu vers l'an 3400 du Calendrier Stellaire, lorsque sa Flèche de lumière briseuse de ciel abattit l'Arbre d'ambroisie de l'Abondance.
 
@@ -212,6 +212,20 @@ Mythus ressemble à une une méduse brisée et déchirée, semblable à une vers
 **Statut :** En vie
 
 <div style="text-align: center;"><img src="images/aions/Nanook.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
+
+>~~*« Si la croissance de l'entropie est une loi fondamentale de l'univers, alors la mort thermique devrait être le destin inévitable du monde matériel. Par conséquent, pourquoi lutter pour survivre ? L'univers s'étend, fusionne, puis sera anéanti. Si nous voulons accueillir une nouvelle vie, nous devons d'abord accepter sa fin. »*~~
+><div align="right"><i><s>— Paroles d'un scientifique juste avant qu'il n'appuie sur le bouton déclenchant une explosion nucléaire, 2152 E. A.</s></i></div><br>
+>La naissance de l'univers est une erreur. Si la civilisation est un cancer né de l'immensité stellaire, alors la guerre est le seul langage commun connu de toute forme de vie intelligente.
+>Pour corriger le tir et laver l'univers de cette tache, Nanook est devenu l'avatar de l'entropie.
+>
+>---
+><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
+
+Après avoir été témoin de la destruction d'Adlivun par l'Essaim et l'Empire des machines à sa naissance, Nanook estime que la création de l'univers est une erreur et cherche à tout détruire. Après son ascension en tant qu'Eonien, Nanook aurait prétendument incendié son monde d'origine[4].
+
+Bien qu'il soit le dernier Eon à s'être élevé, Nanook et ses serviteurs peuvent déjà être considérées comme la plus grande menace de toute la galaxie[5].
+
+Nanook apparaît fréquemment sous la forme d'un homme à la peau brune, avec de longs cheveux blancs et deux tresses, ainsi que des yeux dorés. Une immense cicatrice, ainsi que de multiples autres plus petites, sont visibles sur sa poitrine, d'où s'échappe de l'ichor doré. Un quart de ses bras flottent et la moitié de ses membres inférieurs sont couverts de flammes dorées et de fumée noire, illustrant son désir de destruction.
 
 ---
 ### Sagesse l'Érudition
