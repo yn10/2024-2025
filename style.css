@@ -31,7 +31,7 @@ td, th {
   color: #E6E6E6;
 }
 
-hr {
+body hr {
     border: none;         /* Remove default border */
     border-top: 1px solid #1a1a21; /* Create a thin top border */
     height: 0;           /* Remove height */
