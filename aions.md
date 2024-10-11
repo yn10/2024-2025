@@ -257,11 +257,28 @@ Avant se s'élever au rang d'Aiôn, Sagesse était un super-ordinateur astral do
 
 <div style="text-align: center;"><img src="images/aions/Ouroboros.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
+>~~*« Les insectes sont aux oiseaux ce que les lièvres sont aux loups. Les étoiles sont aux trous noirs, ce que les mondes sont à la voracité. »*~~
+><div align="right"><s>— L'histoire des mondes comme un miroir<i>, Xianzhou</i></s></div><br>
+>Le buveur de mondes, le devoreur insatiable, le trou noir qui pense. Il est à la fois un Aiôn et un Léviathan.\
+>Aux yeux d'Ouroboros, la vie est un fragment vacillant qui flotte dans la mer du néant, destiné à retourner dans les ténèbres avec les étoiles qui les ont engendrées. Ces ténèbres se trouvent au fin fond de ses gosiers.
+>
+>---
+><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
+
+Il dévore les mondes insatiablement. Les légendes racontent qu'il aurait également la forme d'une sorte de créatures ancestrales du nom de Léviathans.
+
 ---
 ### Qlipoth la Préservation
 **Statut :** En vie
 
 <div style="text-align: center;"><img src="images/aions/Qlipoth.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
+
+>~~*« Le philosophe contempla les étoiles et tenta d'y découvrir le but ultime de la civilisation. Une voix résonna dans sa tête : bâtis un mur, bâtis un mur. »*~~
+><div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div><br>
+>Bâtisseur du Mur de la comète céleste, de la Barrière cristalline subspatiale et de la base du Grand attracteur. Ses adeptes l'appellent le « Seigneur de l'Ambre », l'un des Aiôns les plus anciens et les plus tenaces, ayant survécu aux « Guerres du crépuscule ». >Conscient de l'imminence de la menace ennemie, le Seigneur de l'Ambre a forgé un puissant sceau long de plusieurs années-lumière pour isoler et protéger les mondes des vivants.
+>
+>---
+><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
 ---
 ### Tayzzyronth la Propagation
