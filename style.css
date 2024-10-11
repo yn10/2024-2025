@@ -30,3 +30,11 @@ td, th {
   background-color: #1a1a21;
   color: #E6E6E6;
 }
+
+hr {
+    border: none;         /* Remove default border */
+    border-top: 1px solid #1a1a21; /* Create a thin top border */
+    height: 0;           /* Remove height */
+    margin: 20px 0;      /* Add some space above and below */
+    width: 100%;         /* Full width */
+}
