@@ -203,8 +203,6 @@ Long était le « Père des dragons », et prenait autrefois la forme d'un drago
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
 
-Mythus s'efforce de combattre les certitudes de Sagesse l'Érudition, peu importe les conséquences. Il a conjuré le Brouillard de la Pensée et la Pluie des Sensations pour révéler aux mortels l'inexplicable vérité par l'intermédiaire des quatre agents : Transformation, Écran, Énigme et Mirage.
-
 Il considère que la perception surpasse tout et que les entités limitées sont incapables de concevoir l'infini tel qu'il est, ce qui fait que toute chose est énigmatique.
 
 Mythus ressemble à une une méduse brisée et déchirée, semblable à une version délibérément détruite du centre « cognitif » du cerveau humain. Il a une apparence humanoïde entourée d'un escalier.
