@@ -114,6 +114,6 @@ Terminus voyage dans le temps depuis le futur. IL apparaît à chaque moment de 
 
 Xipe est l'amalgame de milliers d'entités en provenance de multiples mondes célestes harmonieux qui prêchent la joie de l'harmonie et de l'unité humaine. Lorsqu'elle s'est élevée au rang d'Aiôn vers la fin du Désastre de l'Essaim, elle a absorbé [Ena l'Ordre](/nonclasses.md/ena-lordre) suite à la collision de leurs Voies.
 
-Xipe se présente comme une humanoïde à l'apparence sereine, à la peau pervenche et possédant trois visages, dont un devant et deux de chaque côté de sa tête. Les visages sont encadrés par de longues franges blanches et sont tous ornés d'un diadème. Xipe possède une longue chevelure d'un dégradé blanc-violet foncé scintillant. Un mélange de couleurs vives flamboie derrière sa tête, à la manière d'une auréole.
+Xipe se présente comme une humanoïde à l'apparence sereine, à la peau pervenche et possédant trois visages, dont un devant et deux de chaque côté de la tête. Les visages sont encadrés par de longues franges blanches et sont tous ornés d'un diadème. Xipe possède une longue chevelure d'un dégradé blanc-violet foncé scintillant. Un mélange de couleurs vives flamboie derrière sa tête, à la manière d'une auréole.
 
 Son corps semble constitué de pièces de puzzle dispersées. Il est recouvert d'un vêtement semblable à une robe ajustée décorée de motifs bleus et violets représentant le cosmos. Le vêtement descend jusqu'à ses pieds, tandis que son cou et son torse sont fermement encerclés d'un entrelacement de dorures.
