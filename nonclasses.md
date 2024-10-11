@@ -16,7 +16,7 @@
 
 
 ### Ena l'Ordre
-**Statut :** Absorbé par [Xipe](#xipe-lharmonie)
+**Statut :** Absorbé par [Xipe l'Harmonie](/nonclasses.md#xipe-lharmonie)
 
 <div style="text-align: center;"><img src="images/aions/Ena.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
