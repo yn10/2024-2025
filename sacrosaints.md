@@ -86,7 +86,7 @@ Fuli se manifeste sous la forme d'une silhouette humanoïde taillée dans un mat
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
 
-La pure bonté du monde matériel perçue et définie par des formes de vie intelligentes - c'est ainsi que la soi-disant « beauté » a vu le jour.
+La pure bonté du monde matériel perçue et définie par des formes de vie intelligentes : c'est ainsi que la soi-disant « beauté » a vu le jour.
 
 Selon un ancien mythe, Idrila revendiquait autrefois à elle seule le mérite de la beauté de toutes les zones stellaires. Elle présentait le sens et l'esthétique du paysage cosmique aux héros, aux méchants et aux mortels, les poussant à accomplir d'époustouflantes mais dévastatrices prouesses, pour le plus grand plaisir d'Idrila. Ce mythe pourrait bien révéler la véritable signification de la Voie de la Beauté : l'intégration de la conscience, de la compréhension et des valeurs.
 
