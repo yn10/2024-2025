@@ -12,7 +12,7 @@
 
 |Table des matières| 
 |---| 
-|• [Aha l'Allégresse](#aha-lallégresse)<br>• [Akivili le Pionnier](#akivili-le-pionnier)<br>• [Fuli le Souvenir](#fuli-le-souvenir)<br>• [Idrila la Beauté](#idrila-la-beauté)<br>• [Sagesse l'Érudition](#sagesse-lérudition)|
+|1. [Aha l'Allégresse](#aha-lallégresse)<br>2. [Akivili le Pionnier](#akivili-le-pionnier)<br>3. [Fuli le Souvenir](#fuli-le-souvenir)<br>4. [Idrila la Beauté](#idrila-la-beauté)<br>5. [Sagesse l'Érudition](#sagesse-lérudition)|
 
 ### Aha l'Allégresse
 **Statut :** En vie
