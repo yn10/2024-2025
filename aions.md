@@ -146,7 +146,7 @@ IX ressemble à un gros blob violet avec deux yeux blancs attirant vers lui de n
 >~~*« La beauté est présente dans les fibres d'un tissu, dans les vers d'un poème et dans certaines notes d'une chanson : bienvenue dans une ère où l'idée même de la « beauté » n'a pas la moindre valeur ! Comme c'est vulgaire, triste et désespérant ! »*~~
 ><div align="right"><s>— Guide de la mode cosmique <i>par la rédactrice en chef Micheline von Tarantino</i></s></div><br>
 >Idrila fut témoin du sens ultime de l'existence du monde via la vision changeante de l'univers, connue par le reste du monde comme la notion même de la « beauté ».
->L'Aion de la Beaute disparut soudainement, aussi mystérieusement qu'il fit son apparition.
+>L'Aion de la Beauté disparut soudainement, aussi mystérieusement qu'il fit son apparition.
 >
 >---
 ><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
