@@ -25,3 +25,7 @@ img[src$=".png"],
 img[src$=".webp"] {
   background-color: #1a1a21;
 }
+
+table {
+  background-color: #1a1a21;
+}
