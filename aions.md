@@ -194,6 +194,15 @@ Long était le « Père des dragons », et prenait autrefois la forme d'un drago
 
 <div style="text-align: center;"><img src="images/aions/Mythus.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
+>~~*« Arrêter de se poser des questions, ça revient à demander à la pluie de renoncer à sa foi envers les étoiles scintillantes. Ouvrez-vous à la rivière rugissante des métaphores et vous trouverez la vérité qui se cache à l'extrémité du ciel étoilé, dans les tempêtes idylliques d'un âge révolu. »*~~
+><div align="right"><i><s>— Sharon Leighton, poétesse lauréate galactique (autoproclamée)</s></i></div><br>
+>C'est un mensonge de dire que toute chose peut-être vécue et reconnue. Les vivants cherchent à écrire des prophéties sur l'inconnu en se reposant sur leur sens limité de l'ordre de l'univers. Cependant, ils sont loin d'imaginer que celui-ci est infini et que la vérité n'est qu'une illusion trompeuse.
+>
+>Dans le but d'empêcher la certitude que l'Érudition apportait en détruisant les possibilités défendues par Mythus, ce dernier a invoqué le Brouillard de la pensée et la Pluie de sensations afin de révéler aux mortels l'inexplicable vérité à l'aide de quatre agents : Transformation, Écran, Énigme et Mirage.
+>
+>---
+><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
+
 ---
 ### Nanook la Destruction
 **Statut :** En vie
