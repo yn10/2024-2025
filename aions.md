@@ -327,7 +327,7 @@ Terminus voyage dans le temps depuis le futur. IL apparaît à chaque moment de 
 <div style="text-align: center;"><img src="images/aions/Xipe.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
 
 >~~*« Le monde est en harmonie et les étoiles brillent de mille feux. Louée soit son Éminence ! Tout est connecté et le vent de la bénédiction souffle à travers les terres ! »*~~
-><div align="right"><s>— Odes de l'Harmonie <i>, I</i></s></div><br>
+><div align="right"><s>— Odes de l'Harmonie<i>, I</i></s></div><br>
 >Un Aiôn multiple venu de plusieurs mondes harmonieux. La glorieuse Xipe aux mille visages entonne des chants de joie et d'unité.\
 >Pour combattre la brutalité des lois de l'univers, les formes de vie intelligentes doivent oublier leur lâche égoïsme et les différences entre les êtres pour fusionner en un chant harmonieux, et pousser les forts à aider les faibles et protéger la vie avec la mort.
 >
