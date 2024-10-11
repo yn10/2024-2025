@@ -275,7 +275,7 @@ Il dévore les mondes insatiablement. Les légendes racontent qu'il aurait égal
 
 >~~*« Le philosophe contempla les étoiles et tenta d'y découvrir le but ultime de la civilisation. Une voix résonna dans sa tête : bâtis un mur, bâtis un mur. »*~~
 ><div align="right"><s>— Fables sur les étoiles <i>par Adrian Spencer Smith</i></s></div><br>
->Bâtisseur du Mur de la comète céleste, de la Barrière cristalline subspatiale et de la base du Grand attracteur. Ses adeptes l'appellent le « Seigneur de l'Ambre », l'un des Aiôns les plus anciens et les plus tenaces, ayant survécu aux « Guerres du crépuscule ».
+>Bâtisseur du Mur de la comète céleste, de la Barrière cristalline subspatiale et de la base du Grand attracteur. Ses adeptes l'appellent le « Seigneur de l'Ambre », l'un des Aiôns les plus anciens et les plus tenaces, ayant survécu aux « Guerres du crépuscule ».\
 >Conscient de l'imminence de la menace ennemie, le Seigneur de l'Ambre a forgé un puissant sceau long de plusieurs années-lumière pour isoler et protéger les mondes des vivants.
 >
 >---
