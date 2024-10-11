@@ -58,3 +58,13 @@ Lorsqu'il apparaît dans l'Univers simulé, il émet un cri strident accompagné
 **Statut :** En vie
 
 <div style="text-align: center;"><img src="images/aions/Yaoshi.webp" alt="Aha l'Allégresse" style="width: 50%; height: auto;"></div><br>
+
+>~~*« Les fleurs éclosent, oublieuses, dans l'attente de leur inévitable destin : faner. Les oiseaux déploient leurs ailes et chantent, volant vers leur chute certaine. Les ruisseaux coulent, pleins de vie, vers un lieu où ils s'assécheront inévitablement. Pourquoi tout doit-il dépérir ? Sûrement, un miracle dans l'univers peut soigner cette maladie appelée fatalité. »*~~
+><div align="right"><s>— La vie est trop courte <i>par un anonyme</i></s></div><br>
+>Demandez avec cœur et vous recevrez.\
+>Yaoshi nourrit la vie, il est le dieu du paradis éternel. Son idéal est d'assurer la présence perpétuelle de la vie.\
+>Yaoshi est un Aiôn qui répond à toutes les prières et ne supporte pas le spectacle de la mort et de la douleur liée à la maladie.
+>
+>---
+><div align="right" style="font-style: italic;"><img alt="Banque de données icône" src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Icon_Data_Bank.png" width="30" height="30" style="background: #262626; padding: min(max(calc(15%), 2px), 5px); border-radius: 9999px; vertical-align: middle; margin-right: 8px;">Banque de données, Aiôns</div>
+
