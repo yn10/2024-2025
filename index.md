@@ -37,4 +37,6 @@ Toutefois, il existe des exemples de Voies « similaires » coexistant pendant d
 
 ### Apparence
 
+Les formes des Aiôns que les mortels peuvent voir à l'œil nu sont supposées être des projections depuis une dimension supérieure.
+
 ### Catégories
