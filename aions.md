@@ -29,10 +29,7 @@ La naissance d'un Aiôn fait naître une [Voie](/voies.md) sur laquelle l'Aiôn 
 
 |Table des matières|
 |---|
-|- [Aha l'Allégresse](#aha-lallégresse)<br> - [Akivili le Pionnier](#akivili-le-pionnier)<br> - [Ena l'Ordre](#ena-lordre)<br> - [Fuli le Souvenir](#fuli-le-souvenir)<br> - [HooH l'Équilibre](#hooh-léquilibre)<br> - [IX la Nihilité](#ix-la-nihilité)<br> - [Idrila la Beauté](#idrila-la-beauté)<br> - [Lan la Chasse](#lan-la-chasse)<br> - [Long la Permanence](#long-la-permanence)<br> - [Mythus l'Enigmata](#mythus-lenigmata)<br> - [Nanook la Destruction](#nanook-la-destruction)<br> - [Sagesse l'Érudition](#sagesse-lérudition)<br> - [Ouroboros la Voracité](#ouroboros-la-voracité)<br> - [Qlipoth la Préservation](#qlipoth-la-préservation)<br> - [Tayzzyronth la Propagation](#tayzzyronth-la-propagation)<br> - [Terminus la Finalité](#terminus-la-finalité)<br> - [Xipe l'Harmonie](#xipe-lharmonie)<br> - [Yaoshi l'Abondance](#yaoshi-labondance)|
-
-
-
+|<ul><li>[Aha l'Allégresse](#aha-lallégresse)</li> <li>[Akivili le Pionnier](#akivili-le-pionnier)</li> <li>[Ena l'Ordre](#ena-lordre)</li> <li>[Fuli le Souvenir](#fuli-le-souvenir)</li> <li>[HooH l'Équilibre](#hooh-léquilibre)</li> <li>[IX la Nihilité](#ix-la-nihilité)</li> <li>[Idrila la Beauté](#idrila-la-beauté)</li> <li>[Lan la Chasse](#lan-la-chasse)</li> <li>[Long la Permanence](#long-la-permanence)</li> <li>[Mythus l'Enigmata](#mythus-lenigmata)</li> <li>[Nanook la Destruction](#nanook-la-destruction)</li> <li>[Sagesse l'Érudition](#sagesse-lérudition)</li> <li>[Ouroboros la Voracité](#ouroboros-la-voracité)</li> <li>[Qlipoth la Préservation](#qlipoth-la-préservation)</li> <li>[Tayzzyronth la Propagation](#tayzzyronth-la-propagation)</li> <li>[Terminus la Finalité](#terminus-la-finalité)</li> <li>[Xipe l'Harmonie](#xipe-lharmonie)</li> <li>[Yaoshi l'Abondance](#yaoshi-labondance)</li></ul>|
 
 
 ### Aha l'Allégresse
