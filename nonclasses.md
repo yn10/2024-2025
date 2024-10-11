@@ -12,7 +12,7 @@
 
 |Table des matières|
 |---| 
-|• [Ena l'Ordre](#ena-lordre)<br>• [HooH l'Équilibre](#hooh-léquilibre)<br>• [IX la Nihilité](#ix-la-nihilité)<br>• [Long la Permanence](#long-la-permanence)<br>• [Ouroboros la Voracité](#ouroboros-la-voracité)<br>• [Terminus la Finalité](#terminus-la-finalité)<br>• [Xipe l'Harmonie](#xipe-lharmonie)|
+|• [Ena l'Ordre](#ena-lordre)<br>• [HooH l'Équilibre](#hooh-léquilibre)<br>• [IX la Nihilité](#ix-la-nihilité)<br>• [Long la Permanence](#long-la-permanence)<br>• [Mythus l'Enigmata](#mythus-lenigmata)<br>• [Ouroboros la Voracité](#ouroboros-la-voracité)<br>• [Terminus la Finalité](#terminus-la-finalité)<br>• [Xipe l'Harmonie](#xipe-lharmonie)|
 
 
 ### Ena l'Ordre
